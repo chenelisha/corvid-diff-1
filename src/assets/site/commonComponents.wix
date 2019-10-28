@@ -85,7 +85,6 @@
         "anchors": [
           {
             "distance": 0,
-            "locked": false,
             "targetComponent": "PAGES_CONTAINER",
             "type": "BOTTOM_TOP"
           }

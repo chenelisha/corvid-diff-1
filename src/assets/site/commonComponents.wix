@@ -22,6 +22,203 @@
               "skin": "wysiwyg.viewer.skins.button.BasicButton",
               "styleId": "style-k2a5yx7m",
               "type": "Component"
+            },
+            {
+              "components": [
+                {
+                  "components": [
+                    {
+                      "componentType": "wysiwyg.viewer.components.WPhoto",
+                      "connectionQuery": "connection-k2a63hom",
+                      "dataQuery": "#dataItem-k2a63ho9",
+                      "id": "comp-k2a63ho8",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 226,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 306,
+                        "x": 0,
+                        "y": 0
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hv4",
+                      "propertyQuery": "propItem-k2a63hob",
+                      "skin": "wysiwyg.viewer.skins.photo.NoSkinPhoto",
+                      "styleId": "style-k2a63hob1",
+                      "type": "Component"
+                    },
+                    {
+                      "components": [
+                        {
+                          "componentType": "wysiwyg.viewer.components.WRichText",
+                          "connectionQuery": "connection-k2a63hps",
+                          "dataQuery": "#dataItem-k2a63hpc",
+                          "id": "comp-k2a63hpb",
+                          "layout": {
+                            "fixedPosition": false,
+                            "height": 27,
+                            "rotationInDegrees": 0,
+                            "scale": 1,
+                            "width": 159,
+                            "x": 17,
+                            "y": 8
+                          },
+                          "mobileHintsQuery": "mobileHints-k2a63hvq",
+                          "propertyQuery": "propItem-k2a63hpd",
+                          "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
+                          "styleId": "style-k2a63hpe",
+                          "type": "Component"
+                        }
+                      ],
+                      "componentType": "mobile.core.components.Container",
+                      "connectionQuery": "connection-k2a63hpw",
+                      "id": "comp-k2a63hp5",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 44,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 180,
+                        "x": -1,
+                        "y": 196
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hv7",
+                      "styleId": "style-k2a63hp51",
+                      "type": "Container"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.WRichText",
+                      "connectionQuery": "connection-k2a63hqp",
+                      "dataQuery": "#dataItem-k2a63hqb",
+                      "id": "comp-k2a63hqa",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 17,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 191,
+                        "x": 16,
+                        "y": 242
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hva",
+                      "propertyQuery": "propItem-k2a63hqc",
+                      "styleId": "style-k2a63hqc1",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.WRichText",
+                      "connectionQuery": "connection-k2a63hr9",
+                      "dataQuery": "#dataItem-k2a63hqv1",
+                      "id": "comp-k2a63hqv",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 68,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 268,
+                        "x": 19,
+                        "y": 277
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hvd",
+                      "propertyQuery": "propItem-k2a63hqw",
+                      "styleId": "style-k2a63hqx",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.WRichText",
+                      "connectionQuery": "connection-k2a63hrw",
+                      "dataQuery": "#dataItem-k2a63hrg",
+                      "id": "comp-k2a63hrf",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 22,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 115,
+                        "x": 19,
+                        "y": 359
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hvg",
+                      "propertyQuery": "propItem-k2a63hrh",
+                      "styleId": "style-k2a63hrh1",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.WRichText",
+                      "connectionQuery": "connection-k2a63hsk",
+                      "dataQuery": "#dataItem-k2a63hs4",
+                      "id": "comp-k2a63hs3",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 39,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 136,
+                        "x": 19,
+                        "y": 379
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hvj",
+                      "propertyQuery": "propItem-k2a63hs5",
+                      "styleId": "style-k2a63hs51",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.SiteButton",
+                      "connectionQuery": "connection-k2a63ht9",
+                      "dataQuery": "#dataItem-k2a63hss",
+                      "id": "comp-k2a63hsr",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 40,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 120,
+                        "x": 167,
+                        "y": 372
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hvn",
+                      "propertyQuery": "propItem-k2a63hst",
+                      "skin": "wysiwyg.viewer.skins.button.BasicButton",
+                      "styleId": "style-k2a63hst1",
+                      "type": "Component"
+                    }
+                  ],
+                  "componentType": "wysiwyg.viewer.components.MediaContainer",
+                  "connectionQuery": "connection-k2a63hos",
+                  "designQuery": "#dataItem-k2a63ho1",
+                  "id": "comp-k2a63hnr",
+                  "layout": {
+                    "fixedPosition": false,
+                    "height": 432,
+                    "rotationInDegrees": 0,
+                    "scale": 1,
+                    "width": 306,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "mobileHintsQuery": "mobileHints-k2a63hv1",
+                  "styleId": "style-k2a63ho6",
+                  "type": "Container"
+                }
+              ],
+              "componentType": "wysiwyg.viewer.components.Repeater",
+              "connectionQuery": "connection-k2a63hoy",
+              "dataQuery": "#dataItem-k2a63hne",
+              "id": "comp-k2a63hlk",
+              "layout": {
+                "fixedPosition": false,
+                "height": 432,
+                "rotationInDegrees": 0,
+                "scale": 1,
+                "width": 980,
+                "x": -15.537037037037067,
+                "y": 121.46195652173913
+              },
+              "mobileHintsQuery": "mobileHints-k2a63hvt",
+              "propertyQuery": "propItem-k2a63hnf",
+              "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin",
+              "styleId": "style-k2a63hng",
+              "type": "RepeaterContainer"
             }
           ],
           "componentType": "wysiwyg.viewer.components.HeaderContainer",
@@ -29,7 +226,7 @@
           "id": "SITE_HEADER",
           "layout": {
             "fixedPosition": false,
-            "height": 111,
+            "height": 574,
             "rotationInDegrees": 0,
             "scale": 1,
             "width": 980,
@@ -71,7 +268,7 @@
             "scale": 1,
             "width": 980,
             "x": 0,
-            "y": 111
+            "y": 574
           },
           "skin": "wysiwyg.viewer.skins.screenwidthcontainer.BlankScreen",
           "styleId": "pc1",
@@ -109,7 +306,7 @@
             "scale": 1,
             "width": 980,
             "x": 0,
-            "y": 511
+            "y": 974
           },
           "skin": "wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen",
           "styleId": "fc1",
@@ -147,7 +344,7 @@
                 "scale": 1,
                 "width": 50,
                 "x": 253,
-                "y": 62
+                "y": 473
               },
               "skin": "wysiwyg.viewer.skins.inlinePopupToggle.inlinePopupToggleSkin4",
               "styleId": "style-jz9vc9ps",
@@ -171,6 +368,203 @@
               "skin": "wysiwyg.viewer.skins.button.BasicButton",
               "styleId": "style-k2a5yx7m",
               "type": "Component"
+            },
+            {
+              "components": [
+                {
+                  "components": [
+                    {
+                      "componentType": "wysiwyg.viewer.components.WRichText",
+                      "connectionQuery": "connection-k2a63hqp",
+                      "dataQuery": "#dataItem-k2a63hqb",
+                      "id": "comp-k2a63hqa",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 10,
+                        "rotationInDegrees": 0,
+                        "scale": 0.9333333333333333,
+                        "width": 280,
+                        "x": 20,
+                        "y": 249
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hva",
+                      "propertyQuery": "mobile_propItem-k2a63hqc",
+                      "styleId": "style-k2a63hqc1",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.WRichText",
+                      "connectionQuery": "connection-k2a63hr9",
+                      "dataQuery": "#dataItem-k2a63hqv1",
+                      "id": "comp-k2a63hqv",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 10,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 280,
+                        "x": 20,
+                        "y": 269
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hvd",
+                      "propertyQuery": "mobile_propItem-k2a63hqw",
+                      "styleId": "style-k2a63hqx",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.WRichText",
+                      "connectionQuery": "connection-k2a63hrw",
+                      "dataQuery": "#dataItem-k2a63hrg",
+                      "id": "comp-k2a63hrf",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 10,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 280,
+                        "x": 20,
+                        "y": 289
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hvg",
+                      "propertyQuery": "mobile_propItem-k2a63hrh",
+                      "styleId": "style-k2a63hrh1",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.WRichText",
+                      "connectionQuery": "connection-k2a63hsk",
+                      "dataQuery": "#dataItem-k2a63hs4",
+                      "id": "comp-k2a63hs3",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 10,
+                        "rotationInDegrees": 0,
+                        "scale": 0.8846153846153846,
+                        "width": 280,
+                        "x": 20,
+                        "y": 309
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hvj",
+                      "propertyQuery": "mobile_propItem-k2a63hs5",
+                      "styleId": "style-k2a63hs51",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.SiteButton",
+                      "connectionQuery": "connection-k2a63ht9",
+                      "dataQuery": "#dataItem-k2a63hss",
+                      "id": "comp-k2a63hsr",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 42,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 160,
+                        "x": 20,
+                        "y": 339
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hvn",
+                      "propertyQuery": "propItem-k2a63hst",
+                      "skin": "wysiwyg.viewer.skins.button.BasicButton",
+                      "styleId": "style-k2a63hst1",
+                      "type": "Component"
+                    },
+                    {
+                      "componentType": "wysiwyg.viewer.components.WPhoto",
+                      "connectionQuery": "connection-k2a63hom",
+                      "dataQuery": "#dataItem-k2a63ho9",
+                      "id": "comp-k2a63ho8",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 206,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 279,
+                        "x": 21,
+                        "y": 20
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hv4",
+                      "propertyQuery": "propItem-k2a63hob",
+                      "skin": "wysiwyg.viewer.skins.photo.NoSkinPhoto",
+                      "styleId": "style-k2a63hob1",
+                      "type": "Component"
+                    },
+                    {
+                      "components": [
+                        {
+                          "componentType": "wysiwyg.viewer.components.WRichText",
+                          "connectionQuery": "connection-k2a63hps",
+                          "dataQuery": "#dataItem-k2a63hpc",
+                          "id": "comp-k2a63hpb",
+                          "layout": {
+                            "fixedPosition": false,
+                            "height": 25,
+                            "rotationInDegrees": 0,
+                            "scale": 0.8755700325732899,
+                            "width": 72,
+                            "x": 16,
+                            "y": 7
+                          },
+                          "mobileHintsQuery": "mobileHints-k2a63hvq",
+                          "propertyQuery": "mobile_propItem-k2a63hpd",
+                          "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
+                          "styleId": "style-k2a63hpe",
+                          "type": "Component"
+                        }
+                      ],
+                      "componentType": "mobile.core.components.Container",
+                      "connectionQuery": "connection-k2a63hpw",
+                      "id": "comp-k2a63hp5",
+                      "layout": {
+                        "fixedPosition": false,
+                        "height": 40,
+                        "rotationInDegrees": 0,
+                        "scale": 1,
+                        "width": 164,
+                        "x": 20,
+                        "y": 199
+                      },
+                      "mobileHintsQuery": "mobileHints-k2a63hv7",
+                      "styleId": "style-k2a63hp51",
+                      "type": "Container"
+                    }
+                  ],
+                  "componentType": "wysiwyg.viewer.components.MediaContainer",
+                  "connectionQuery": "connection-k2a63hos",
+                  "designQuery": "#dataItem-k2a63ho1",
+                  "id": "comp-k2a63hnr",
+                  "layout": {
+                    "fixedPosition": false,
+                    "height": 401,
+                    "rotationInDegrees": 0,
+                    "scale": 1,
+                    "width": 320,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "mobileHintsQuery": "mobileHints-k2a63hv1",
+                  "styleId": "style-k2a63ho6",
+                  "type": "Container"
+                }
+              ],
+              "componentType": "wysiwyg.viewer.components.Repeater",
+              "connectionQuery": "connection-k2a63hoy",
+              "dataQuery": "#dataItem-k2a63hne",
+              "id": "comp-k2a63hlk",
+              "layout": {
+                "fixedPosition": false,
+                "height": 401,
+                "rotationInDegrees": 0,
+                "scale": 1,
+                "width": 320,
+                "x": 0,
+                "y": 62
+              },
+              "mobileHintsQuery": "mobileHints-k2a63hvt",
+              "propertyQuery": "propItem-k2a63hnf",
+              "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin",
+              "styleId": "style-k2a63hng",
+              "type": "RepeaterContainer"
             },
             {
               "behaviorQuery": "behavior-jz9tlsvs",
@@ -232,7 +626,7 @@
           "id": "SITE_HEADER",
           "layout": {
             "fixedPosition": false,
-            "height": 122,
+            "height": 533,
             "rotationInDegrees": 0,
             "scale": 1,
             "width": 320,
@@ -274,7 +668,7 @@
             "scale": 1,
             "width": 320,
             "x": 0,
-            "y": 122
+            "y": 533
           },
           "skin": "wysiwyg.viewer.skins.screenwidthcontainer.BlankScreen",
           "styleId": "pc1",
@@ -312,7 +706,7 @@
             "scale": 1,
             "width": 320,
             "x": 0,
-            "y": 322
+            "y": 733
           },
           "skin": "wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen",
           "styleId": "fc1",
@@ -344,6 +738,28 @@
     },
     "data": {
       "document_data": {
+        "dataItem-k2a63hss": {
+          "id": "dataItem-k2a63hss",
+          "type": "LinkableButton",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "label": "Book Now"
+        },
+        "dataItem-k2a63hs4": {
+          "id": "dataItem-k2a63hs4",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size: 26px; line-height: 1.5em;\"><span style=\"font-size:26px;\"><span style=\"color:#36B5CD\"><span style=\"font-family:avenir-lt-w01_85-heavy1475544,sans-serif;\">$550</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
         "appPart22zi": {
           "type": "AppPart",
           "id": "appPart22zi",
@@ -379,6 +795,147 @@
           "menus": [
             "#CUSTOM_MAIN_MENU"
           ]
+        },
+        "dataItem-k2a63hrg__item1": {
+          "id": "dataItem-k2a63hrg__item1",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size:15px; line-height:1.5em\"><span style=\"font-family:avenir-lt-w01_35-light1475496,sans-serif\"><span style=\"font-size:15px\"><span style=\"color:#577083\">From:</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hrg__item2": {
+          "id": "dataItem-k2a63hrg__item2",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size:15px; line-height:1.5em\"><span style=\"font-family:avenir-lt-w01_35-light1475496,sans-serif\"><span style=\"font-size:15px\"><span style=\"color:#577083\">From:</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hrg__item3": {
+          "id": "dataItem-k2a63hrg__item3",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size:15px; line-height:1.5em\"><span style=\"font-family:avenir-lt-w01_35-light1475496,sans-serif\"><span style=\"font-size:15px\"><span style=\"color:#577083\">From:</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hpc__item1": {
+          "id": "dataItem-k2a63hpc__item1",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<h4 class=\"font_2\" style=\"font-size:20px\"><span style=\"font-size:20px\"><span style=\"letter-spacing:0.08em\"><span style=\"font-weight:bold\"><span style=\"color:#577083\"><span style=\"font-family:open sans,sans-serif\">HYDRA</span></span></span></span></span></h4>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hqv1": {
+          "id": "dataItem-k2a63hqv1",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_8\" style=\"line-height:1.5em\"><span style=\"color:#577083\">Click here to add your own content, or connect to data from your collections.</span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63ho9": {
+          "width": 6000,
+          "height": 4000,
+          "alt": "",
+          "uri": "af9daef5b5684a679caf003614294ccd.jpg",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "2.0",
+            "isHidden": false
+          },
+          "crop": {
+            "x": 584,
+            "y": 0,
+            "width": 5416,
+            "height": 4000
+          },
+          "title": "",
+          "type": "Image",
+          "id": "dataItem-k2a63ho9",
+          "description": ""
+        },
+        "dataItem-k2a63hpc__item2": {
+          "id": "dataItem-k2a63hpc__item2",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<h4 class=\"font_2\" style=\"font-size: 20px;\"><span style=\"font-size:20px\"><span style=\"letter-spacing:0.08em\"><span style=\"font-weight:bold\"><span style=\"color:#577083\"><span style=\"font-family:open sans,sans-serif\">SANTORINI</span></span></span></span></span></h4>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hqb__item1": {
+          "id": "dataItem-k2a63hqb__item1",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size: 14px;\"><span style=\"font-size:14px;\"><span style=\"font-family:avenir-lt-w01_35-light1475496,sans-serif;\"><span style=\"color:#36B5CD\">01/19 - 01/23</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hpc__item3": {
+          "id": "dataItem-k2a63hpc__item3",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<h4 class=\"font_2\" style=\"font-size:20px\"><span style=\"font-size:20px\"><span style=\"letter-spacing:0.08em\"><span style=\"font-weight:bold\"><span style=\"color:#577083\"><span style=\"font-family:open sans,sans-serif\">MYKONOS</span></span></span></span></span></h4>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hqb__item2": {
+          "id": "dataItem-k2a63hqb__item2",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size:14px\"><span style=\"font-size:14px\"><span style=\"font-family:avenir-lt-w01_35-light1475496,sans-serif\"><span style=\"color:#36B5CD\">01/19 - 01/23</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hqb__item3": {
+          "id": "dataItem-k2a63hqb__item3",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size: 14px;\"><span style=\"font-size:14px;\"><span style=\"font-family:avenir-lt-w01_35-light1475496,sans-serif;\"><span style=\"color:#36B5CD\">01/19 - 01/23</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
         },
         "masterPage": {
           "mainPageId": "c1dmp",
@@ -418,6 +975,51 @@
             "customNoPermissionsPageId": "whhhx"
           }
         },
+        "dataItem-k2a63hqb": {
+          "id": "dataItem-k2a63hqb",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size: 14px;\"><span style=\"font-size:14px;\"><span style=\"font-family:avenir-lt-w01_35-light1475496,sans-serif;\"><span style=\"color:#36B5CD\">01/19 - 01/23</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63ho9__item1": {
+          "width": 6000,
+          "height": 4000,
+          "alt": "",
+          "uri": "af9daef5b5684a679caf003614294ccd.jpg",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "2.0",
+            "isHidden": false
+          },
+          "crop": {
+            "x": 584,
+            "y": 0,
+            "width": 5416,
+            "height": 4000
+          },
+          "title": "",
+          "type": "Image",
+          "id": "dataItem-k2a63ho9__item1",
+          "description": ""
+        },
+        "dataItem-k2a63hqv1__item1": {
+          "id": "dataItem-k2a63hqv1__item1",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_8\" style=\"line-height:1.5em\"><span style=\"color:#577083\">Click here to add your own content, or connect to data from your collections.</span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
         "pst14": {
           "type": "PermaLink",
           "id": "pst14",
@@ -430,6 +1032,45 @@
           "dataItemRef": "#appPart22zi",
           "mutableSeoTitle": "edit-post"
         },
+        "dataItem-k2a63hpc": {
+          "id": "dataItem-k2a63hpc",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<h4 class=\"font_2\" style=\"font-size:20px\"><span style=\"font-size:20px\"><span style=\"letter-spacing:0.08em\"><span style=\"font-weight:bold\"><span style=\"color:#577083\"><span style=\"font-family:open sans,sans-serif\">HYDRA</span></span></span></span></span></h4>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63ho9__item2": {
+          "width": 8576,
+          "height": 5696,
+          "alt": "",
+          "uri": "5bfb6f_0d9c0ddff0e54fb99dbea4f37fe36111~mv2_d_8576_5696_s_4_2.jpg",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "2.0",
+            "isHidden": false
+          },
+          "title": "",
+          "type": "Image",
+          "id": "dataItem-k2a63ho9__item2",
+          "description": ""
+        },
+        "dataItem-k2a63hqv1__item2": {
+          "id": "dataItem-k2a63hqv1__item2",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_8\" style=\"line-height:1.5em\"><span style=\"color:#577083\">Click here to add your own content, or connect to data from your collections.</span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
         "dataItem-k2a62gxk": {
           "id": "dataItem-k2a62gxk",
           "type": "LinkableButton",
@@ -439,6 +1080,59 @@
             "isHidden": false
           },
           "label": "View More"
+        },
+        "dataItem-k2a63ho9__item3": {
+          "width": 3959,
+          "height": 2644,
+          "alt": "",
+          "uri": "3273c6e2911e44059093e6011be353a5.jpg",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "2.0",
+            "isHidden": false
+          },
+          "title": "",
+          "type": "Image",
+          "id": "dataItem-k2a63ho9__item3",
+          "description": ""
+        },
+        "dataItem-k2a63hqv1__item3": {
+          "id": "dataItem-k2a63hqv1__item3",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_8\" style=\"line-height:1.5em\"><span style=\"color:#577083\">Click here to add your own content, or connect to data from your collections.</span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hrg": {
+          "id": "dataItem-k2a63hrg",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size:15px; line-height:1.5em\"><span style=\"font-family:avenir-lt-w01_35-light1475496,sans-serif\"><span style=\"font-size:15px\"><span style=\"color:#577083\">From:</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hne": {
+          "id": "dataItem-k2a63hne",
+          "type": "Repeater",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "items": [
+            "item1",
+            "item2",
+            "item3"
+          ]
         },
         "PAGES_GROUP_COLLECTION": {
           "type": "PagesGroupCollection",
@@ -450,6 +1144,28 @@
           },
           "groups": []
         },
+        "dataItem-k2a63hs4__item1": {
+          "id": "dataItem-k2a63hs4__item1",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size: 26px; line-height: 1.5em;\"><span style=\"font-size:26px;\"><span style=\"color:#36B5CD\"><span style=\"font-family:avenir-lt-w01_85-heavy1475544,sans-serif;\">$550</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hss__item1": {
+          "id": "dataItem-k2a63hss__item1",
+          "type": "LinkableButton",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "label": "Book Now"
+        },
         "dataItem-k2a5yx7j": {
           "id": "dataItem-k2a5yx7j",
           "type": "LinkableButton",
@@ -459,6 +1175,40 @@
             "isHidden": false
           },
           "label": "Discover More"
+        },
+        "dataItem-k2a63hs4__item2": {
+          "id": "dataItem-k2a63hs4__item2",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size:26px; line-height:1.5em\"><span style=\"font-size:26px\"><span style=\"color:#36B5CD\"><span style=\"font-family:avenir-lt-w01_85-heavy1475544,sans-serif\">$399</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
+        },
+        "dataItem-k2a63hss__item2": {
+          "id": "dataItem-k2a63hss__item2",
+          "type": "LinkableButton",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "label": "Book Now"
+        },
+        "dataItem-k2a63hs4__item3": {
+          "id": "dataItem-k2a63hs4__item3",
+          "type": "StyledText",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "text": "<p class=\"font_7\" style=\"font-size:26px; line-height:1.5em\"><span style=\"font-size:26px\"><span style=\"color:#36B5CD\"><span style=\"font-family:avenir-lt-w01_85-heavy1475544,sans-serif\">$499</span></span></span></p>",
+          "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+          "linkList": []
         },
         "dataItem-jz9tlsw3": {
           "type": "CustomMenuDataRef",
@@ -485,9 +1235,191 @@
               "value": "false"
             }
           }
+        },
+        "dataItem-k2a63hss__item3": {
+          "id": "dataItem-k2a63hss__item3",
+          "type": "LinkableButton",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "label": "Book Now"
         }
       },
       "design_data": {
+        "dataItem-k2a63ho1": {
+          "id": "dataItem-k2a63ho1",
+          "type": "MediaContainerDesignData",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "background": "#dataItem-k2a63hul",
+          "cssStyle": {
+            "cssBorder": {
+              "width": {
+                "top": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "right": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottom": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "left": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              },
+              "style": {
+                "top": "solid",
+                "right": "solid",
+                "left": "solid",
+                "bottom": "solid"
+              },
+              "color": {
+                "top": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "right": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "left": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "bottom": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                }
+              }
+            },
+            "cssBorderRadius": {
+              "topLeft": {
+                "value": 0,
+                "unit": "px"
+              },
+              "topRight": {
+                "value": 0,
+                "unit": "px"
+              },
+              "bottomLeft": {
+                "value": 0,
+                "unit": "px"
+              },
+              "bottomRight": {
+                "value": 0,
+                "unit": "px"
+              }
+            },
+            "cssBoxShadow": [
+              {
+                "inset": false,
+                "offsetX": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "offsetY": {
+                  "value": 4,
+                  "unit": "px"
+                },
+                "blurRadius": {
+                  "value": 10,
+                  "unit": "px"
+                },
+                "spreadRadius": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "color": {
+                  "red": 0,
+                  "green": 0,
+                  "blue": 0,
+                  "alpha": 0.1
+                }
+              }
+            ]
+          },
+          "themeMappings": {},
+          "charas": "design-j9o8atta",
+          "dataChangeBehaviors": []
+        },
+        "dataItem-k2a63ho3": {
+          "color": "#FFFFFF",
+          "scrollType": "none",
+          "showOverlayForMediaType": "WixVideo",
+          "colorOpacity": 1,
+          "mediaTransforms": {
+            "scale": 1
+          },
+          "colorOverlay": "",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "fittingType": "fill",
+          "type": "BackgroundMedia",
+          "id": "dataItem-k2a63ho3",
+          "colorOverlayOpacity": 0,
+          "alignType": "center"
+        },
+        "dataItem-k2a63ho4": {
+          "color": "#FFFFFF",
+          "scrollType": "none",
+          "showOverlayForMediaType": "WixVideo",
+          "colorOpacity": 1,
+          "mediaTransforms": {
+            "scale": 1
+          },
+          "colorOverlay": "",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "fittingType": "fill",
+          "type": "BackgroundMedia",
+          "id": "dataItem-k2a63ho4",
+          "colorOverlayOpacity": 0,
+          "alignType": "center"
+        },
+        "dataItem-k2a63ho5": {
+          "color": "#FFFFFF",
+          "scrollType": "none",
+          "showOverlayForMediaType": "WixVideo",
+          "colorOpacity": 1,
+          "mediaTransforms": {
+            "scale": 1
+          },
+          "colorOverlay": "",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "fittingType": "fill",
+          "type": "BackgroundMedia",
+          "id": "dataItem-k2a63ho5",
+          "colorOverlayOpacity": 0,
+          "alignType": "center"
+        },
         "dataItem-jz9tlsvi": {
           "type": "MediaContainerDesignData",
           "id": "dataItem-jz9tlsvi",
@@ -498,6 +1430,138 @@
           },
           "background": "#dataItem-jz9tlsvi1",
           "charas": "design-jz9vafqw",
+          "dataChangeBehaviors": []
+        },
+        "dataItem-k2a63hul": {
+          "color": "#FFFFFF",
+          "scrollType": "none",
+          "showOverlayForMediaType": "WixVideo",
+          "colorOpacity": 1,
+          "mediaTransforms": {
+            "scale": 1
+          },
+          "colorOverlay": "",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "fittingType": "fill",
+          "type": "BackgroundMedia",
+          "id": "dataItem-k2a63hul",
+          "colorOverlayOpacity": 0,
+          "alignType": "center"
+        },
+        "dataItem-k2a63ho1__item1": {
+          "id": "dataItem-k2a63ho1__item1",
+          "type": "MediaContainerDesignData",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "background": "#dataItem-k2a63ho3",
+          "cssStyle": {
+            "cssBorder": {
+              "width": {
+                "top": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "right": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottom": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "left": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              },
+              "style": {
+                "top": "solid",
+                "right": "solid",
+                "left": "solid",
+                "bottom": "solid"
+              },
+              "color": {
+                "top": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "right": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "left": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "bottom": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                }
+              }
+            },
+            "cssBorderRadius": {
+              "topLeft": {
+                "value": 0,
+                "unit": "px"
+              },
+              "topRight": {
+                "value": 0,
+                "unit": "px"
+              },
+              "bottomLeft": {
+                "value": 0,
+                "unit": "px"
+              },
+              "bottomRight": {
+                "value": 0,
+                "unit": "px"
+              }
+            },
+            "cssBoxShadow": [
+              {
+                "inset": false,
+                "offsetX": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "offsetY": {
+                  "value": 4,
+                  "unit": "px"
+                },
+                "blurRadius": {
+                  "value": 10,
+                  "unit": "px"
+                },
+                "spreadRadius": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "color": {
+                  "red": 0,
+                  "green": 0,
+                  "blue": 0,
+                  "alpha": 0.1
+                }
+              }
+            ]
+          },
+          "themeMappings": {},
+          "charas": "design-j9o8atta",
           "dataChangeBehaviors": []
         },
         "dataItem-jz9tlsvi1": {
@@ -516,6 +1580,230 @@
           "id": "dataItem-jz9tlsvi1",
           "colorOverlayOpacity": 0,
           "alignType": "center"
+        },
+        "dataItem-k2a63ho1__item2": {
+          "id": "dataItem-k2a63ho1__item2",
+          "type": "MediaContainerDesignData",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "background": "#dataItem-k2a63ho4",
+          "cssStyle": {
+            "cssBorder": {
+              "width": {
+                "top": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "right": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottom": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "left": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              },
+              "style": {
+                "top": "solid",
+                "right": "solid",
+                "left": "solid",
+                "bottom": "solid"
+              },
+              "color": {
+                "top": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "right": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "left": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "bottom": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                }
+              }
+            },
+            "cssBorderRadius": {
+              "topLeft": {
+                "value": 0,
+                "unit": "px"
+              },
+              "topRight": {
+                "value": 0,
+                "unit": "px"
+              },
+              "bottomLeft": {
+                "value": 0,
+                "unit": "px"
+              },
+              "bottomRight": {
+                "value": 0,
+                "unit": "px"
+              }
+            },
+            "cssBoxShadow": [
+              {
+                "inset": false,
+                "offsetX": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "offsetY": {
+                  "value": 4,
+                  "unit": "px"
+                },
+                "blurRadius": {
+                  "value": 10,
+                  "unit": "px"
+                },
+                "spreadRadius": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "color": {
+                  "red": 0,
+                  "green": 0,
+                  "blue": 0,
+                  "alpha": 0.1
+                }
+              }
+            ]
+          },
+          "themeMappings": {},
+          "charas": "design-j9pcqmvo",
+          "dataChangeBehaviors": []
+        },
+        "dataItem-k2a63ho1__item3": {
+          "id": "dataItem-k2a63ho1__item3",
+          "type": "MediaContainerDesignData",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "background": "#dataItem-k2a63ho5",
+          "cssStyle": {
+            "cssBorder": {
+              "width": {
+                "top": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "right": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottom": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "left": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              },
+              "style": {
+                "top": "solid",
+                "right": "solid",
+                "left": "solid",
+                "bottom": "solid"
+              },
+              "color": {
+                "top": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "right": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "left": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                },
+                "bottom": {
+                  "red": 176,
+                  "green": 169,
+                  "blue": 134,
+                  "alpha": 1
+                }
+              }
+            },
+            "cssBorderRadius": {
+              "topLeft": {
+                "value": 0,
+                "unit": "px"
+              },
+              "topRight": {
+                "value": 0,
+                "unit": "px"
+              },
+              "bottomLeft": {
+                "value": 0,
+                "unit": "px"
+              },
+              "bottomRight": {
+                "value": 0,
+                "unit": "px"
+              }
+            },
+            "cssBoxShadow": [
+              {
+                "inset": false,
+                "offsetX": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "offsetY": {
+                  "value": 4,
+                  "unit": "px"
+                },
+                "blurRadius": {
+                  "value": 10,
+                  "unit": "px"
+                },
+                "spreadRadius": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "color": {
+                  "red": 0,
+                  "green": 0,
+                  "blue": 0,
+                  "alpha": 0.1
+                }
+              }
+            ]
+          },
+          "themeMappings": {},
+          "charas": "design-j9pcqsl2",
+          "dataChangeBehaviors": []
         }
       },
       "behaviors_data": {
@@ -566,6 +1854,66 @@
             }
           ]
         },
+        "connection-k2a63hps": {
+          "id": "connection-k2a63hps",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "text3"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
+        "connection-k2a63hos": {
+          "id": "connection-k2a63hos",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "container2"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
+        "connection-k2a63hrw": {
+          "id": "connection-k2a63hrw",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "text6"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
+        "connection-k2a63ht9": {
+          "id": "connection-k2a63ht9",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "button5"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
         "connection-k290y3ei1": {
           "type": "ConnectionList",
           "id": "connection-k290y3ei1",
@@ -575,6 +1923,36 @@
               "role": "header1"
             }
           ]
+        },
+        "connection-k2a63hpw": {
+          "id": "connection-k2a63hpw",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "box1"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
+        "connection-k2a63hr9": {
+          "id": "connection-k2a63hr9",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "text5"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
         },
         "connection-k290y3eg": {
           "type": "ConnectionList",
@@ -596,6 +1974,21 @@
             }
           ]
         },
+        "connection-k2a63hoy": {
+          "id": "connection-k2a63hoy",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "repeater2"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
         "connection-k290y3ei": {
           "type": "ConnectionList",
           "id": "connection-k290y3ei",
@@ -616,6 +2009,21 @@
             }
           ]
         },
+        "connection-k2a63hsk": {
+          "id": "connection-k2a63hsk",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "text7"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
         "connection-k2a62gy3": {
           "id": "connection-k2a62gy3",
           "type": "ConnectionList",
@@ -623,6 +2031,36 @@
             {
               "type": "WixCodeConnectionItem",
               "role": "button4"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
+        "connection-k2a63hom": {
+          "id": "connection-k2a63hom",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "image1"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
+        "connection-k2a63hqp": {
+          "id": "connection-k2a63hqp",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "text4"
             }
           ],
           "metaData": {
@@ -643,12 +2081,33 @@
         }
       },
       "component_properties": {
-        "SITE_PAGES": {
-          "type": "PageGroupProperties",
+        "propItem-k2a63hnf": {
+          "id": "propItem-k2a63hnf",
+          "type": "CardsLayoutProperties",
           "metaData": {
-            "schemaVersion": "1.0"
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": false
           },
-          "transition": "outIn"
+          "alignment": "left",
+          "gap": {
+            "vertical": 30,
+            "horizontal": 30
+          }
+        },
+        "mobile_propItem-k2a63hrh": {
+          "id": "mobile_propItem-k2a63hrh",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": true
+          },
+          "brightness": 1,
+          "packed": false,
+          "minHeight": null
         },
         "propItem-jz9tlsw4": {
           "type": "ExpandableMenuProperties",
@@ -672,6 +2131,101 @@
           "align": "center",
           "margin": 0
         },
+        "propItem-k2a63hst": {
+          "id": "propItem-k2a63hst",
+          "type": "ButtonProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "align": "center",
+          "margin": 0
+        },
+        "propItem-k2a63hs5": {
+          "id": "propItem-k2a63hs5",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": false
+          },
+          "brightness": 1,
+          "packed": true
+        },
+        "SITE_PAGES": {
+          "type": "PageGroupProperties",
+          "metaData": {
+            "schemaVersion": "1.0"
+          },
+          "transition": "outIn"
+        },
+        "mobile_propItem-k2a63hs5": {
+          "id": "mobile_propItem-k2a63hs5",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": true
+          },
+          "brightness": 1,
+          "packed": false,
+          "minHeight": null
+        },
+        "propItem-k2a63hqw": {
+          "id": "propItem-k2a63hqw",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": false
+          },
+          "brightness": 1,
+          "packed": false,
+          "minHeight": 68
+        },
+        "mobile_propItem-k2a63hqw": {
+          "id": "mobile_propItem-k2a63hqw",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": true
+          },
+          "brightness": 1,
+          "packed": false,
+          "minHeight": null
+        },
+        "propItem-k2a63hqc": {
+          "id": "propItem-k2a63hqc",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": false
+          },
+          "brightness": 1,
+          "packed": true
+        },
+        "propItem-k2a63hob": {
+          "id": "propItem-k2a63hob",
+          "type": "WPhotoProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": false
+          },
+          "displayMode": "fill",
+          "onClickBehavior": "goToLink",
+          "autoFill": false,
+          "effectName": "none"
+        },
         "propItem-k2a62gxl": {
           "id": "propItem-k2a62gxl",
           "type": "ButtonProperties",
@@ -682,6 +2236,55 @@
           },
           "align": "center",
           "margin": 0
+        },
+        "propItem-k2a63hpd": {
+          "id": "propItem-k2a63hpd",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "brightness": 1,
+          "packed": true
+        },
+        "mobile_propItem-k2a63hqc": {
+          "id": "mobile_propItem-k2a63hqc",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": true
+          },
+          "brightness": 1,
+          "packed": false,
+          "minHeight": null
+        },
+        "propItem-k2a63hrh": {
+          "id": "propItem-k2a63hrh",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": false
+          },
+          "brightness": 1,
+          "packed": true
+        },
+        "mobile_propItem-k2a63hpd": {
+          "id": "mobile_propItem-k2a63hpd",
+          "type": "WRichTextProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false,
+            "autoGenerated": true
+          },
+          "brightness": 1,
+          "packed": false,
+          "minHeight": null
         }
       },
       "mobile_hints": {

@@ -237,6 +237,92 @@
       "id": "sc1",
       "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
     },
+    "style-k2a63hs51": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "f10": "normal normal normal 12px/1.4em din-next-w01-light #545454",
+          "f0": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f1": "normal normal normal 16px/1.4em din-next-w01-light #545454",
+          "f2": "normal normal normal 28px/1.4em proxima-n-w01-reg #858585",
+          "f3": "normal normal normal 60px/1.4em proxima-n-w01-reg #858585",
+          "f4": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f5": "normal normal normal 25px/1.4em proxima-n-w01-reg #858585",
+          "f6": "normal normal normal 22px/1.4em proxima-n-w01-reg #858585",
+          "f7": "normal normal normal 17px/1.4em proxima-n-w01-reg #858585",
+          "f8": "normal normal normal 15px/1.4em helvetica-w01-roman #858585",
+          "f9": "normal normal normal 14px/1.4em proxima-n-w01-reg #858585"
+        },
+        "propertiesSource": {
+          "f10": "value",
+          "f0": "value",
+          "f1": "value",
+          "f2": "value",
+          "f3": "value",
+          "f4": "value",
+          "f5": "value",
+          "f6": "value",
+          "f7": "value",
+          "f8": "value",
+          "f9": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hs51",
+      "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
+    },
+    "style-k2a63hpe": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "f10": "normal normal normal 12px/1.4em din-next-w01-light #545454",
+          "f0": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f1": "normal normal normal 16px/1.4em din-next-w01-light #545454",
+          "f2": "normal normal normal 28px/1.4em proxima-n-w01-reg #858585",
+          "f3": "normal normal normal 60px/1.4em proxima-n-w01-reg #858585",
+          "f4": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f5": "normal normal normal 25px/1.4em proxima-n-w01-reg #858585",
+          "f6": "normal normal normal 22px/1.4em proxima-n-w01-reg #858585",
+          "f7": "normal normal normal 17px/1.4em proxima-n-w01-reg #858585",
+          "f8": "normal normal normal 15px/1.4em helvetica-w01-roman #858585",
+          "f9": "normal normal normal 14px/1.4em proxima-n-w01-reg #858585"
+        },
+        "propertiesSource": {
+          "f10": "value",
+          "f0": "value",
+          "f1": "value",
+          "f2": "value",
+          "f3": "value",
+          "f4": "value",
+          "f5": "value",
+          "f6": "value",
+          "f7": "value",
+          "f8": "value",
+          "f9": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hpe",
+      "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
+    },
     "p2": {
       "componentClassName": "",
       "pageId": "",
@@ -481,6 +567,55 @@
       "type": "TopLevelStyle",
       "id": "sc2",
       "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "style-k2a63hst1": {
+      "componentClassName": "wysiwyg.viewer.components.SiteButton",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bgh": "#5BC9DE",
+          "alpha-brdh": "0",
+          "bg": "#36B5CD",
+          "alpha-brd": "1",
+          "brw": "0",
+          "alpha-txth": "1",
+          "fnt": "normal normal normal 15px/1.4em helvetica-w01-roman #858585",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "txt": "#FFFFFF",
+          "rd": "0px",
+          "brdh": "#F9F9F9",
+          "brd": "#545454",
+          "alpha-bg": "1",
+          "alpha-bgh": "1",
+          "txth": "#FFFFFF"
+        },
+        "propertiesSource": {
+          "bgh": "value",
+          "alpha-brdh": "value",
+          "bg": "value",
+          "brw": "value",
+          "fnt": "value",
+          "shd": "value",
+          "txt": "value",
+          "rd": "value",
+          "brdh": "value",
+          "brd": "value",
+          "txth": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hst1",
+      "skin": "wysiwyg.viewer.skins.button.BasicButton"
     },
     "p3": {
       "componentClassName": "",
@@ -799,6 +934,42 @@
       "type": "TopLevelStyle",
       "id": "ddm2",
       "skin": "wysiwyg.common.components.dropdownmenu.viewer.skins.SolidColorMenuButtonSkin"
+    },
+    "style-k2a63hng": {
+      "componentClassName": "mobile.core.components.Container",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "alpha-bg": "0",
+          "alpha-brd": "0",
+          "bg": "61,155,233,1",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "#324158",
+          "brw": "0px",
+          "rd": "0px",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)"
+        },
+        "propertiesSource": {
+          "alpha-bg": "value",
+          "alpha-brd": "value",
+          "bg": "value",
+          "brd": "value",
+          "brw": "value",
+          "rd": "value",
+          "shd": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hng",
+      "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
     },
     "ddm3": {
       "componentClassName": "",
@@ -1625,6 +1796,49 @@
       "id": "twf1",
       "skin": "wysiwyg.viewer.skins.TwitterFeedSkin"
     },
+    "style-k2a63hrh1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "f10": "normal normal normal 12px/1.4em din-next-w01-light #545454",
+          "f0": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f1": "normal normal normal 16px/1.4em din-next-w01-light #545454",
+          "f2": "normal normal normal 28px/1.4em proxima-n-w01-reg #858585",
+          "f3": "normal normal normal 60px/1.4em proxima-n-w01-reg #858585",
+          "f4": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f5": "normal normal normal 25px/1.4em proxima-n-w01-reg #858585",
+          "f6": "normal normal normal 22px/1.4em proxima-n-w01-reg #858585",
+          "f7": "normal normal normal 17px/1.4em proxima-n-w01-reg #858585",
+          "f8": "normal normal normal 15px/1.4em helvetica-w01-roman #858585",
+          "f9": "normal normal normal 14px/1.4em proxima-n-w01-reg #858585"
+        },
+        "propertiesSource": {
+          "f10": "value",
+          "f0": "value",
+          "f1": "value",
+          "f2": "value",
+          "f3": "value",
+          "f4": "value",
+          "f5": "value",
+          "f6": "value",
+          "f7": "value",
+          "f8": "value",
+          "f9": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hrh1",
+      "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
+    },
     "hl2": {
       "componentClassName": "",
       "pageId": "",
@@ -2123,6 +2337,25 @@
       "id": "c4",
       "skin": "wysiwyg.viewer.skins.area.RectangleArea"
     },
+    "style-k2a63hob1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {},
+        "propertiesSource": {}
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hob1",
+      "skin": "wysiwyg.viewer.skins.photo.NoSkinPhoto"
+    },
     "b4": {
       "componentClassName": "",
       "pageId": "",
@@ -2167,6 +2400,49 @@
       "type": "TopLevelStyle",
       "id": "b4",
       "skin": "wysiwyg.viewer.skins.button.ButtonThreeD"
+    },
+    "style-k2a63hqc1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "f10": "normal normal normal 12px/1.4em din-next-w01-light #545454",
+          "f0": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f1": "normal normal normal 16px/1.4em din-next-w01-light #545454",
+          "f2": "normal normal normal 28px/1.4em proxima-n-w01-reg #858585",
+          "f3": "normal normal normal 60px/1.4em proxima-n-w01-reg #858585",
+          "f4": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f5": "normal normal normal 25px/1.4em proxima-n-w01-reg #858585",
+          "f6": "normal normal normal 22px/1.4em proxima-n-w01-reg #858585",
+          "f7": "normal normal normal 17px/1.4em proxima-n-w01-reg #858585",
+          "f8": "normal normal normal 15px/1.4em helvetica-w01-roman #858585",
+          "f9": "normal normal normal 14px/1.4em proxima-n-w01-reg #858585"
+        },
+        "propertiesSource": {
+          "f10": "value",
+          "f0": "value",
+          "f1": "value",
+          "f2": "value",
+          "f3": "value",
+          "f4": "value",
+          "f5": "value",
+          "f6": "value",
+          "f7": "value",
+          "f8": "value",
+          "f9": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hqc1",
+      "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
     },
     "ca1": {
       "componentClassName": "",
@@ -2225,6 +2501,25 @@
       "id": "eib1",
       "skin": "wysiwyg.viewer.skins.EbayItemsBySellerSkin"
     },
+    "style-k2a63ho6": {
+      "componentClassName": "wysiwyg.viewer.components.MediaContainer",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {},
+        "propertiesSource": {}
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63ho6",
+      "skin": "wysiwyg.viewer.skins.mediaContainer.DefaultMediaContainer"
+    },
     "blog_f72fe377-8abc-40f2-8656-89cfe00f3a22_1": {
       "componentClassName": "",
       "pageId": "",
@@ -2247,6 +2542,49 @@
       "type": "TopLevelStyle",
       "id": "blog_f72fe377-8abc-40f2-8656-89cfe00f3a22_1",
       "skin": "wysiwyg.viewer.skins.AppPartSkin"
+    },
+    "style-k2a63hqx": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "f10": "normal normal normal 12px/1.4em din-next-w01-light #545454",
+          "f0": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f1": "normal normal normal 16px/1.4em din-next-w01-light #545454",
+          "f2": "normal normal normal 28px/1.4em proxima-n-w01-reg #858585",
+          "f3": "normal normal normal 60px/1.4em proxima-n-w01-reg #858585",
+          "f4": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+          "f5": "normal normal normal 25px/1.4em proxima-n-w01-reg #858585",
+          "f6": "normal normal normal 22px/1.4em proxima-n-w01-reg #858585",
+          "f7": "normal normal normal 17px/1.4em proxima-n-w01-reg #858585",
+          "f8": "normal normal normal 15px/1.4em helvetica-w01-roman #858585",
+          "f9": "normal normal normal 14px/1.4em proxima-n-w01-reg #858585"
+        },
+        "propertiesSource": {
+          "f10": "value",
+          "f0": "value",
+          "f1": "value",
+          "f2": "value",
+          "f3": "value",
+          "f4": "value",
+          "f5": "value",
+          "f6": "value",
+          "f7": "value",
+          "f8": "value",
+          "f9": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hqx",
+      "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
     },
     "fc1": {
       "componentClassName": "",
@@ -3248,6 +3586,40 @@
       "type": "TopLevelStyle",
       "id": "pc2",
       "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "style-k2a63hp51": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "alpha-bg": "1",
+          "alpha-brd": "1",
+          "bg": "#FFFFFF",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "#858585",
+          "brw": "0",
+          "rd": "0px",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)"
+        },
+        "propertiesSource": {
+          "bg": "value",
+          "brd": "value",
+          "brw": "value",
+          "rd": "value",
+          "shd": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a63hp51",
+      "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
     },
     "tf1": {
       "componentClassName": "",

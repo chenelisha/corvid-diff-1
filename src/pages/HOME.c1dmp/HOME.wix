@@ -4,7 +4,7 @@
       "structure": {
         "layout": {
           "width": 980,
-          "height": 513,
+          "height": 518,
           "x": 0,
           "y": 0,
           "scale": 1,
@@ -19,7 +19,7 @@
             "connectionQuery": "connection-k2a5xgcl",
             "layout": {
               "x": 0,
-              "y": 258,
+              "y": 263,
               "fixedPosition": false,
               "width": 980,
               "height": 255,

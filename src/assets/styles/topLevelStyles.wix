@@ -2781,6 +2781,52 @@
       "id": "fc3",
       "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
     },
+    "style-k2a6dbkl": {
+      "id": "style-k2a6dbkl",
+      "type": "TopLevelStyle",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bgh": "#2B689C",
+          "alpha-brdh": "1",
+          "bg": "#3D9BE9",
+          "alpha-brd": "1",
+          "brw": "0px",
+          "alpha-txth": "1",
+          "fnt": "normal normal normal 14px/1.4em raleway",
+          "shd": "0 1px 4px rgba(0, 0, 0, 0.6);",
+          "txt": "#FFFFFF",
+          "rd": "20px",
+          "brdh": "#3D9BE9",
+          "brd": "#2B689C",
+          "alpha-bg": "1",
+          "alpha-bgh": "1",
+          "txth": "#FFFFFF"
+        },
+        "propertiesSource": {
+          "bgh": "value",
+          "bg": "value",
+          "brw": "value",
+          "fnt": "value",
+          "shd": "value",
+          "txt": "value",
+          "rd": "value",
+          "brdh": "value",
+          "brd": "value",
+          "txth": "value"
+        }
+      },
+      "componentClassName": "platform.components.AppController",
+      "skin": "platform.components.skins.controllerSkin",
+      "styleType": "custom"
+    },
     "style-k2a67e8i": {
       "componentClassName": "",
       "pageId": "",

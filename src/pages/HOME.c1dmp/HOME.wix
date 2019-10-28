@@ -136,6 +136,29 @@
             "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin",
             "dataQuery": "#dataItem-k2a5xgbg",
             "mobileHintsQuery": "mobileHints-k2a5xgfh"
+          },
+          {
+            "connectionQuery": "connection-k2a6dblb",
+            "layout": {
+              "x": 855.462962962963,
+              "y": 137,
+              "fixedPosition": false,
+              "width": 60,
+              "height": 96,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "style-k2a6dbkl",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "componentType": "platform.components.AppController",
+            "type": "Component",
+            "id": "comp-k2a6dbis",
+            "skin": "platform.components.skins.controllerSkin",
+            "dataQuery": "#dataItem-k2a6dbkg"
           }
         ],
         "componentType": "mobile.core.components.Page",
@@ -262,6 +285,41 @@
             "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
             "dataQuery": "#dataItem-k2a6ahyl",
             "mobileHintsQuery": "mobileHints-k2a6ahzi"
+          },
+          {
+            "conversionData": {
+              "isSemiTransparentContainer": false,
+              "isTransparentContainer": false,
+              "backgroundColor": "#3D9BE9",
+              "shouldApplyPreset": true,
+              "mobileHints": {
+                "hidden": false
+              },
+              "isNonContainableFullWidth": false,
+              "nonLayoutComponent": true,
+              "hiddenable": false
+            },
+            "connectionQuery": "connection-k2a6dblb",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 0,
+              "height": 0,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "style-k2a6dbkl",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "componentType": "platform.components.AppController",
+            "type": "Component",
+            "id": "comp-k2a6dbis",
+            "skin": "platform.components.skins.controllerSkin",
+            "dataQuery": "#dataItem-k2a6dbkg"
           }
         ],
         "type": "Page",
@@ -708,6 +766,19 @@
             "text": "<h3 class=\"font_3\">Heading 3</h3>",
             "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
             "linkList": []
+          },
+          {
+            "id": "dataItem-k2a6dbkg",
+            "type": "AppController",
+            "applicationId": "dataBinding",
+            "name": "Sample dataset",
+            "controllerType": "dataset",
+            "settings": "{\"dataset\":{\"collectionName\":\"sample\",\"includes\":null,\"readWriteType\":\"READ\",\"pageSize\":20,\"sort\":null,\"filter\":null}}",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
           }
         ],
         "design_data": [
@@ -1338,6 +1409,21 @@
               "schemaVersion": "1.0",
               "isHidden": false
             }
+          },
+          {
+            "id": "connection-k2a6dblb",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "dataset1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
           }
         ],
         "theme_data": [
@@ -1714,6 +1800,9 @@
       },
       "title": "HOME",
       "pageUriSEO": "home",
+      "pagesPlatformApplications": [
+        "dataBinding"
+      ],
       "menus": {
         "CUSTOM_MAIN_MENU": {
           "bmi23nr": {

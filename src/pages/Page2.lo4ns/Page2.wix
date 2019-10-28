@@ -13,9 +13,225 @@
         },
         "connectionQuery": "connection-k2a5va02",
         "styleId": "style-k2a5v9zp",
-        "components": [],
+        "components": [
+          {
+            "connectionQuery": "connection-k2a68lph",
+            "layout": {
+              "x": -24.5,
+              "y": 160,
+              "fixedPosition": false,
+              "width": 980,
+              "height": 255,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "style-k2a68lpg1",
+            "propertyQuery": "propItem-k2a68lpf",
+            "previousStyleId": "style-k2a5xgbj",
+            "components": [
+              {
+                "connectionQuery": "connection-k2a68lpv",
+                "designQuery": "#dataItem-k2a68lpq",
+                "layout": {
+                  "x": 0,
+                  "y": 0,
+                  "fixedPosition": false,
+                  "width": 241,
+                  "height": 255,
+                  "scale": 1,
+                  "rotationInDegrees": 0
+                },
+                "styleId": "style-k2a68lpu2",
+                "previousStyleId": "style-k2a5xgbw1",
+                "components": [
+                  {
+                    "connectionQuery": "connection-k2a68lq22",
+                    "layout": {
+                      "x": 6,
+                      "y": 48,
+                      "fixedPosition": false,
+                      "width": 231,
+                      "height": 35,
+                      "scale": 1,
+                      "rotationInDegrees": 0
+                    },
+                    "styleId": "style-k2a68lq21",
+                    "propertyQuery": "propItem-k2a68lq1",
+                    "previousStyleId": "style-k2a5xgc3",
+                    "componentType": "wysiwyg.viewer.components.WRichText",
+                    "type": "Component",
+                    "id": "comp-k2a68lpx",
+                    "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
+                    "dataQuery": "#dataItem-k2a68lq0",
+                    "mobileHintsQuery": "mobileHints-k2a68lq2"
+                  },
+                  {
+                    "connectionQuery": "connection-k2a68lr91",
+                    "layout": {
+                      "x": 20,
+                      "y": 118,
+                      "fixedPosition": false,
+                      "width": 201,
+                      "height": 63,
+                      "scale": 1,
+                      "rotationInDegrees": 0
+                    },
+                    "styleId": "style-k2a68lr9",
+                    "propertyQuery": "propItem-k2a68lr8",
+                    "previousStyleId": "style-k2a5xgcr1",
+                    "componentType": "wysiwyg.viewer.components.WRichText",
+                    "type": "Component",
+                    "id": "comp-k2a68lr4",
+                    "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
+                    "dataQuery": "#dataItem-k2a68lr7",
+                    "mobileHintsQuery": "mobileHints-k2a68lr81"
+                  },
+                  {
+                    "connectionQuery": "connection-k2a68lsa",
+                    "layout": {
+                      "x": 96,
+                      "y": 215,
+                      "fixedPosition": false,
+                      "width": 48,
+                      "height": 9,
+                      "scale": 1,
+                      "rotationInDegrees": 0
+                    },
+                    "styleId": "style-k2a68ls92",
+                    "propertyQuery": "propItem-k2a68ls9",
+                    "previousStyleId": "style-k2a5xgdj1",
+                    "componentType": "wysiwyg.common.components.imagebutton.viewer.ImageButton",
+                    "type": "Component",
+                    "id": "comp-k2a68ls0",
+                    "skin": "wysiwyg.common.components.imagebutton.viewer.skins.ImageButtonSkin",
+                    "dataQuery": "#dataItem-k2a68ls4",
+                    "mobileHintsQuery": "mobileHints-k2a68ls91"
+                  }
+                ],
+                "componentType": "wysiwyg.viewer.components.MediaContainer",
+                "type": "Container",
+                "id": "comp-k2a68lpm",
+                "mobileHintsQuery": "mobileHints-k2a68lpu1"
+              }
+            ],
+            "componentType": "wysiwyg.viewer.components.Repeater",
+            "type": "RepeaterContainer",
+            "id": "comp-k2a68lny",
+            "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin",
+            "dataQuery": "#dataItem-k2a68lpe",
+            "mobileHintsQuery": "mobileHints-k2a68lpg"
+          }
+        ],
         "componentType": "mobile.core.components.Page",
-        "mobileComponents": [],
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a68lph",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 320,
+              "height": 99,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "style-k2a68lpg1",
+            "propertyQuery": "propItem-k2a68lpf",
+            "previousStyleId": "style-k2a5xgbj",
+            "components": [
+              {
+                "connectionQuery": "connection-k2a68lpv",
+                "designQuery": "#dataItem-k2a68lpq",
+                "layout": {
+                  "x": 0,
+                  "y": 0,
+                  "fixedPosition": false,
+                  "width": 320,
+                  "height": 99,
+                  "scale": 1,
+                  "rotationInDegrees": 0
+                },
+                "styleId": "style-k2a68lpu2",
+                "previousStyleId": "style-k2a5xgbw1",
+                "components": [
+                  {
+                    "connectionQuery": "connection-k2a68lq22",
+                    "layout": {
+                      "x": 20,
+                      "y": 20,
+                      "fixedPosition": false,
+                      "width": 280,
+                      "height": 10,
+                      "scale": 0.7692307692307693,
+                      "rotationInDegrees": 0
+                    },
+                    "styleId": "style-k2a68lq21",
+                    "propertyQuery": "mobile_propItem-k2a68lq1",
+                    "previousStyleId": "style-k2a5xgc3",
+                    "componentType": "wysiwyg.viewer.components.WRichText",
+                    "type": "Component",
+                    "id": "comp-k2a68lpx",
+                    "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
+                    "dataQuery": "#dataItem-k2a68lq0",
+                    "mobileHintsQuery": "mobileHints-k2a68lq2"
+                  },
+                  {
+                    "connectionQuery": "connection-k2a68lr91",
+                    "layout": {
+                      "x": 20,
+                      "y": 40,
+                      "fixedPosition": false,
+                      "width": 280,
+                      "height": 10,
+                      "scale": 0.9333333333333333,
+                      "rotationInDegrees": 0
+                    },
+                    "styleId": "style-k2a68lr9",
+                    "propertyQuery": "mobile_propItem-k2a68lr8",
+                    "previousStyleId": "style-k2a5xgcr1",
+                    "componentType": "wysiwyg.viewer.components.WRichText",
+                    "type": "Component",
+                    "id": "comp-k2a68lr4",
+                    "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
+                    "dataQuery": "#dataItem-k2a68lr7",
+                    "mobileHintsQuery": "mobileHints-k2a68lr81"
+                  },
+                  {
+                    "connectionQuery": "connection-k2a68lsa",
+                    "layout": {
+                      "x": 136,
+                      "y": 70,
+                      "fixedPosition": false,
+                      "width": 48,
+                      "height": 9,
+                      "scale": 1,
+                      "rotationInDegrees": 0
+                    },
+                    "styleId": "style-k2a68ls92",
+                    "propertyQuery": "propItem-k2a68ls9",
+                    "previousStyleId": "style-k2a5xgdj1",
+                    "componentType": "wysiwyg.common.components.imagebutton.viewer.ImageButton",
+                    "type": "Component",
+                    "id": "comp-k2a68ls0",
+                    "skin": "wysiwyg.common.components.imagebutton.viewer.skins.ImageButtonSkin",
+                    "dataQuery": "#dataItem-k2a68ls4",
+                    "mobileHintsQuery": "mobileHints-k2a68ls91"
+                  }
+                ],
+                "componentType": "wysiwyg.viewer.components.MediaContainer",
+                "type": "Container",
+                "id": "comp-k2a68lpm",
+                "mobileHintsQuery": "mobileHints-k2a68lpu1"
+              }
+            ],
+            "componentType": "wysiwyg.viewer.components.Repeater",
+            "type": "RepeaterContainer",
+            "id": "comp-k2a68lny",
+            "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin",
+            "dataQuery": "#dataItem-k2a68lpe",
+            "mobileHintsQuery": "mobileHints-k2a68lpg"
+          }
+        ],
         "type": "Page",
         "id": "lo4ns",
         "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin",
@@ -23,9 +239,670 @@
         "mobileHintsQuery": "mobileHints-k2a5va08"
       },
       "data": {
-        "component_properties": [],
-        "document_data": [],
-        "theme_data": [],
+        "component_properties": [
+          {
+            "id": "mobile_propItem-k2a68lq1",
+            "type": "WRichTextProperties",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false,
+              "autoGenerated": true
+            },
+            "brightness": 1,
+            "packed": false,
+            "minHeight": null
+          },
+          {
+            "id": "mobile_propItem-k2a68lr8",
+            "type": "WRichTextProperties",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false,
+              "autoGenerated": true
+            },
+            "brightness": 1,
+            "packed": false,
+            "minHeight": null
+          },
+          {
+            "id": "propItem-k2a68lpf",
+            "type": "CardsLayoutProperties",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false,
+              "autoGenerated": false
+            },
+            "alignment": "left",
+            "gap": {
+              "vertical": 5,
+              "horizontal": 5
+            }
+          },
+          {
+            "id": "propItem-k2a68lq1",
+            "type": "WRichTextProperties",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "brightness": 1,
+            "packed": true
+          },
+          {
+            "id": "propItem-k2a68lr8",
+            "type": "WRichTextProperties",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "brightness": 1,
+            "packed": true
+          },
+          {
+            "id": "propItem-k2a68ls9",
+            "type": "ImageButtonProperties",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "transition": "fade"
+          }
+        ],
+        "document_data": [
+          {
+            "id": "dataItem-k2a68lpe",
+            "type": "Repeater",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "items": [
+              "item1",
+              "item-j9ples3e",
+              "item-j9plerjk",
+              "item-j9pleqw5"
+            ]
+          },
+          {
+            "id": "dataItem-k2a68lq0",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<h4 class=\"font_2\" style=\"font-size: 26px; text-align: center;\"><span style=\"font-size:26px\"><span style=\"letter-spacing:0.08em\"><span style=\"color:#FFFFFF\"><span style=\"font-family:futura-lt-w01-book,sans-serif\">Entertainment</span></span></span></span></h4>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lq0__item-j9pleqw5",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<h4 class=\"font_2\" style=\"font-size: 26px; text-align: center;\"><span style=\"font-size:26px\"><span style=\"letter-spacing:0.08em\"><span style=\"color:#FFFFFF\"><span style=\"font-family:futura-lt-w01-book,sans-serif\">Technology</span></span></span></span></h4>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lq0__item-j9plerjk",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<h4 class=\"font_2\" style=\"font-size: 26px; text-align: center;\"><span style=\"font-size:26px\"><span style=\"letter-spacing:0.08em\"><span style=\"color:#FFFFFF\"><span style=\"font-family:futura-lt-w01-book,sans-serif\">Sports</span></span></span></span></h4>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lq0__item-j9ples3e",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<h4 class=\"font_2\" style=\"font-size: 26px; text-align: center;\"><span style=\"font-size:26px\"><span style=\"letter-spacing:0.08em\"><span style=\"color:#FFFFFF\"><span style=\"font-family:futura-lt-w01-book,sans-serif\">Lifestyle</span></span></span></span></h4>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lq0__item1",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<h4 class=\"font_2\" style=\"font-size: 26px; text-align: center;\"><span style=\"font-size:26px\"><span style=\"letter-spacing:0.08em\"><span style=\"color:#FFFFFF\"><span style=\"font-family:futura-lt-w01-book,sans-serif\">Entertainment</span></span></span></span></h4>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lr7",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<p class=\"font_2\" style=\"font-size: 14px; line-height: 1.5em; text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:georgia,palatino,book antiqua,palatino linotype,serif\"><span style=\"letter-spacing:0em\"><span style=\"color:#FFFFFF\">Make this yours. Add images, text and links, or connect data from your collection.</span></span></span></span></p>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lr7__item-j9pleqw5",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<p class=\"font_2\" style=\"font-size: 14px; line-height: 1.5em; text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:georgia,palatino,book antiqua,palatino linotype,serif\"><span style=\"letter-spacing:0em\"><span style=\"color:#FFFFFF\">Make this yours. Add images, text and links, or connect data from your collection.</span></span></span></span></p>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lr7__item-j9plerjk",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<p class=\"font_2\" style=\"font-size: 14px; line-height: 1.5em; text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:georgia,palatino,book antiqua,palatino linotype,serif\"><span style=\"letter-spacing:0em\"><span style=\"color:#FFFFFF\">Make this yours. Add images, text and links, or connect data from your collection.</span></span></span></span></p>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lr7__item-j9ples3e",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<p class=\"font_2\" style=\"font-size: 14px; line-height: 1.5em; text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:georgia,palatino,book antiqua,palatino linotype,serif\"><span style=\"letter-spacing:0em\"><span style=\"color:#FFFFFF\">Make this yours. Add images, text and links, or connect data from your collection.</span></span></span></span></p>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68lr7__item1",
+            "type": "StyledText",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "text": "<p class=\"font_2\" style=\"font-size: 14px; line-height: 1.5em; text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:georgia,palatino,book antiqua,palatino linotype,serif\"><span style=\"letter-spacing:0em\"><span style=\"color:#FFFFFF\">Make this yours. Add images, text and links, or connect data from your collection.</span></span></span></span></p>",
+            "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
+            "linkList": []
+          },
+          {
+            "id": "dataItem-k2a68ls4",
+            "type": "ImageButton",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "defaultImage": "#dataItem-k2a68lu1",
+            "hoverImage": "#dataItem-k2a68lu11",
+            "activeImage": "#dataItem-k2a68lu12",
+            "alt": ""
+          },
+          {
+            "id": "dataItem-k2a68ls4__item-j9pleqw5",
+            "type": "ImageButton",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "defaultImage": "#dataItem-k2a68ls83",
+            "hoverImage": "#dataItem-k2a68ls84",
+            "activeImage": "#dataItem-k2a68ls85",
+            "alt": ""
+          },
+          {
+            "id": "dataItem-k2a68ls4__item-j9plerjk",
+            "type": "ImageButton",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "defaultImage": "#dataItem-k2a68ls8",
+            "hoverImage": "#dataItem-k2a68ls81",
+            "activeImage": "#dataItem-k2a68ls82",
+            "alt": ""
+          },
+          {
+            "id": "dataItem-k2a68ls4__item-j9ples3e",
+            "type": "ImageButton",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "defaultImage": "#dataItem-k2a68ls7",
+            "hoverImage": "#dataItem-k2a68ls71",
+            "activeImage": "#dataItem-k2a68ls72",
+            "alt": ""
+          },
+          {
+            "id": "dataItem-k2a68ls4__item1",
+            "type": "ImageButton",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "defaultImage": "#dataItem-k2a68ls6",
+            "hoverImage": "#dataItem-k2a68ls61",
+            "activeImage": "#dataItem-k2a68ls62",
+            "alt": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls6",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_ff73ca63250240b2a3c975834afa9356~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow_Hover.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls61",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls62",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls7",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_ff73ca63250240b2a3c975834afa9356~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow_Hover.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls71",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls72",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls8",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_ff73ca63250240b2a3c975834afa9356~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow_Hover.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls81",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls82",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls83",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_ff73ca63250240b2a3c975834afa9356~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow_Hover.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls84",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68ls85",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68lu1",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_ff73ca63250240b2a3c975834afa9356~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow_Hover.png",
+            "type": "Image",
+            "id": "dataItem-k2a68lu11",
+            "description": ""
+          },
+          {
+            "width": 36,
+            "height": 10,
+            "alt": "",
+            "uri": "5bfb6f_c2ae26a3c5004bca9ea2b860a535f4ab~mv2.png",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "2.0",
+              "isHidden": false
+            },
+            "title": "Arrow.png",
+            "type": "Image",
+            "id": "dataItem-k2a68lu12",
+            "description": ""
+          }
+        ],
+        "theme_data": [
+          {
+            "componentClassName": "mobile.core.components.Container",
+            "pageId": "",
+            "compId": "",
+            "styleType": "custom",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "style": {
+              "groups": {},
+              "properties": {
+                "alpha-bg": "0",
+                "alpha-brd": "0",
+                "bg": "61,155,233,1",
+                "boxShadowToggleOn-shd": "false",
+                "brd": "#324158",
+                "brw": "0px",
+                "rd": "0px",
+                "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)"
+              },
+              "propertiesSource": {
+                "alpha-bg": "value",
+                "alpha-brd": "value",
+                "bg": "value",
+                "brd": "value",
+                "brw": "value",
+                "rd": "value",
+                "shd": "value"
+              }
+            },
+            "type": "ComponentStyle",
+            "id": "style-k2a68lpg1",
+            "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+          },
+          {
+            "componentClassName": "wysiwyg.viewer.components.MediaContainer",
+            "pageId": "",
+            "compId": "",
+            "styleType": "custom",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "style": {
+              "groups": {},
+              "properties": {},
+              "propertiesSource": {}
+            },
+            "type": "ComponentStyle",
+            "id": "style-k2a68lpu2",
+            "skin": "wysiwyg.viewer.skins.mediaContainer.DefaultMediaContainer"
+          },
+          {
+            "componentClassName": "",
+            "pageId": "",
+            "compId": "",
+            "styleType": "custom",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "style": {
+              "groups": {},
+              "properties": {
+                "f10": "normal normal normal 12px/1.4em din-next-w01-light #545454",
+                "f0": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+                "f1": "normal normal normal 16px/1.4em din-next-w01-light #545454",
+                "f2": "normal normal normal 28px/1.4em proxima-n-w01-reg #858585",
+                "f3": "normal normal normal 60px/1.4em proxima-n-w01-reg #858585",
+                "f4": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+                "f5": "normal normal normal 25px/1.4em proxima-n-w01-reg #858585",
+                "f6": "normal normal normal 22px/1.4em proxima-n-w01-reg #858585",
+                "f7": "normal normal normal 17px/1.4em proxima-n-w01-reg #858585",
+                "f8": "normal normal normal 15px/1.4em helvetica-w01-roman #858585",
+                "f9": "normal normal normal 14px/1.4em proxima-n-w01-reg #858585"
+              },
+              "propertiesSource": {
+                "f10": "value",
+                "f0": "value",
+                "f1": "value",
+                "f2": "value",
+                "f3": "value",
+                "f4": "value",
+                "f5": "value",
+                "f6": "value",
+                "f7": "value",
+                "f8": "value",
+                "f9": "value"
+              }
+            },
+            "type": "ComponentStyle",
+            "id": "style-k2a68lq21",
+            "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
+          },
+          {
+            "componentClassName": "",
+            "pageId": "",
+            "compId": "",
+            "styleType": "custom",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "style": {
+              "groups": {},
+              "properties": {
+                "f10": "normal normal normal 12px/1.4em din-next-w01-light #545454",
+                "f0": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+                "f1": "normal normal normal 16px/1.4em din-next-w01-light #545454",
+                "f2": "normal normal normal 28px/1.4em proxima-n-w01-reg #858585",
+                "f3": "normal normal normal 60px/1.4em proxima-n-w01-reg #858585",
+                "f4": "normal normal normal 40px/1.4em proxima-n-w01-reg #858585",
+                "f5": "normal normal normal 25px/1.4em proxima-n-w01-reg #858585",
+                "f6": "normal normal normal 22px/1.4em proxima-n-w01-reg #858585",
+                "f7": "normal normal normal 17px/1.4em proxima-n-w01-reg #858585",
+                "f8": "normal normal normal 15px/1.4em helvetica-w01-roman #858585",
+                "f9": "normal normal normal 14px/1.4em proxima-n-w01-reg #858585"
+              },
+              "propertiesSource": {
+                "f10": "value",
+                "f0": "value",
+                "f1": "value",
+                "f2": "value",
+                "f3": "value",
+                "f4": "value",
+                "f5": "value",
+                "f6": "value",
+                "f7": "value",
+                "f8": "value",
+                "f9": "value"
+              }
+            },
+            "type": "ComponentStyle",
+            "id": "style-k2a68lr9",
+            "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
+          },
+          {
+            "componentClassName": "wysiwyg.common.components.imagebutton.viewer.ImageButton",
+            "pageId": "",
+            "compId": "",
+            "styleType": "custom",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "style": {
+              "groups": {},
+              "properties": {},
+              "propertiesSource": {}
+            },
+            "type": "ComponentStyle",
+            "id": "style-k2a68ls92",
+            "skin": "wysiwyg.common.components.imagebutton.viewer.skins.ImageButtonSkin"
+          }
+        ],
         "behaviors_data": [],
         "connections_data": [
           {
@@ -35,6 +912,81 @@
               {
                 "type": "WixCodeConnectionItem",
                 "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a68lph",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "repeater3"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a68lpv",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "container3"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a68lq22",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "text8"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a68lr91",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "text9"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a68lsa",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "iconButton2"
               }
             ],
             "metaData": {
@@ -56,7 +1008,533 @@
             }
           }
         ],
-        "design_data": []
+        "design_data": [
+          {
+            "id": "dataItem-k2a68lpq",
+            "type": "MediaContainerDesignData",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "background": "#dataItem-k2a68lu4",
+            "cssStyle": {
+              "cssBorder": {
+                "width": {
+                  "top": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "right": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "bottom": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "left": {
+                    "value": 0,
+                    "unit": "px"
+                  }
+                },
+                "style": {
+                  "top": "solid",
+                  "right": "solid",
+                  "left": "solid",
+                  "bottom": "solid"
+                },
+                "color": {
+                  "top": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "right": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "left": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "bottom": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  }
+                }
+              },
+              "cssBorderRadius": {
+                "topLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "topRight": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomRight": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              }
+            },
+            "themeMappings": {},
+            "charas": "design-j9pkr07o",
+            "dataChangeBehaviors": []
+          },
+          {
+            "id": "dataItem-k2a68lpq__item-j9pleqw5",
+            "type": "MediaContainerDesignData",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "background": "#dataItem-k2a68lpu",
+            "cssStyle": {
+              "cssBorder": {
+                "width": {
+                  "top": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "right": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "bottom": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "left": {
+                    "value": 0,
+                    "unit": "px"
+                  }
+                },
+                "style": {
+                  "top": "solid",
+                  "right": "solid",
+                  "left": "solid",
+                  "bottom": "solid"
+                },
+                "color": {
+                  "top": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "right": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "left": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "bottom": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  }
+                }
+              },
+              "cssBorderRadius": {
+                "topLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "topRight": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomRight": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              }
+            },
+            "themeMappings": {},
+            "charas": "design-j9plfr4e",
+            "dataChangeBehaviors": []
+          },
+          {
+            "id": "dataItem-k2a68lpq__item-j9plerjk",
+            "type": "MediaContainerDesignData",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "background": "#dataItem-k2a68lpt1",
+            "cssStyle": {
+              "cssBorder": {
+                "width": {
+                  "top": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "right": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "bottom": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "left": {
+                    "value": 0,
+                    "unit": "px"
+                  }
+                },
+                "style": {
+                  "top": "solid",
+                  "right": "solid",
+                  "left": "solid",
+                  "bottom": "solid"
+                },
+                "color": {
+                  "top": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "right": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "left": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "bottom": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  }
+                }
+              },
+              "cssBorderRadius": {
+                "topLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "topRight": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomRight": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              }
+            },
+            "themeMappings": {},
+            "charas": "design-j9plfm0b",
+            "dataChangeBehaviors": []
+          },
+          {
+            "id": "dataItem-k2a68lpq__item-j9ples3e",
+            "type": "MediaContainerDesignData",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "background": "#dataItem-k2a68lpt",
+            "cssStyle": {
+              "cssBorder": {
+                "width": {
+                  "top": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "right": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "bottom": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "left": {
+                    "value": 0,
+                    "unit": "px"
+                  }
+                },
+                "style": {
+                  "top": "solid",
+                  "right": "solid",
+                  "left": "solid",
+                  "bottom": "solid"
+                },
+                "color": {
+                  "top": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "right": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "left": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "bottom": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  }
+                }
+              },
+              "cssBorderRadius": {
+                "topLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "topRight": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomRight": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              }
+            },
+            "themeMappings": {},
+            "charas": "design-j9plfiju",
+            "dataChangeBehaviors": []
+          },
+          {
+            "id": "dataItem-k2a68lpq__item1",
+            "type": "MediaContainerDesignData",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "background": "#dataItem-k2a68lps",
+            "cssStyle": {
+              "cssBorder": {
+                "width": {
+                  "top": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "right": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "bottom": {
+                    "value": 0,
+                    "unit": "px"
+                  },
+                  "left": {
+                    "value": 0,
+                    "unit": "px"
+                  }
+                },
+                "style": {
+                  "top": "solid",
+                  "right": "solid",
+                  "left": "solid",
+                  "bottom": "solid"
+                },
+                "color": {
+                  "top": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "right": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "left": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  },
+                  "bottom": {
+                    "red": 176,
+                    "green": 169,
+                    "blue": 134,
+                    "alpha": 1
+                  }
+                }
+              },
+              "cssBorderRadius": {
+                "topLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "topRight": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomLeft": {
+                  "value": 0,
+                  "unit": "px"
+                },
+                "bottomRight": {
+                  "value": 0,
+                  "unit": "px"
+                }
+              }
+            },
+            "themeMappings": {},
+            "charas": "design-j9pkr07o",
+            "dataChangeBehaviors": []
+          },
+          {
+            "color": "#F2BF5E",
+            "scrollType": "none",
+            "showOverlayForMediaType": "WixVideo",
+            "colorOpacity": 1,
+            "mediaTransforms": {
+              "scale": 1
+            },
+            "colorOverlay": "",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "fittingType": "fill",
+            "type": "BackgroundMedia",
+            "id": "dataItem-k2a68lps",
+            "colorOverlayOpacity": 0,
+            "alignType": "center"
+          },
+          {
+            "color": "#FF6161",
+            "scrollType": "none",
+            "showOverlayForMediaType": "WixVideo",
+            "colorOpacity": 1,
+            "mediaTransforms": {
+              "scale": 1
+            },
+            "colorOverlay": "",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "fittingType": "fill",
+            "type": "BackgroundMedia",
+            "id": "dataItem-k2a68lpt",
+            "colorOverlayOpacity": 0,
+            "alignType": "center"
+          },
+          {
+            "color": "#536EB7",
+            "scrollType": "none",
+            "showOverlayForMediaType": "WixVideo",
+            "colorOpacity": 1,
+            "mediaTransforms": {
+              "scale": 1
+            },
+            "colorOverlay": "",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "fittingType": "fill",
+            "type": "BackgroundMedia",
+            "id": "dataItem-k2a68lpt1",
+            "colorOverlayOpacity": 0,
+            "alignType": "center"
+          },
+          {
+            "color": "#75CBA8",
+            "scrollType": "none",
+            "showOverlayForMediaType": "WixVideo",
+            "colorOpacity": 1,
+            "mediaTransforms": {
+              "scale": 1
+            },
+            "colorOverlay": "",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "fittingType": "fill",
+            "type": "BackgroundMedia",
+            "id": "dataItem-k2a68lpu",
+            "colorOverlayOpacity": 0,
+            "alignType": "center"
+          },
+          {
+            "color": "#F2BF5E",
+            "scrollType": "none",
+            "showOverlayForMediaType": "WixVideo",
+            "colorOpacity": 1,
+            "mediaTransforms": {
+              "scale": 1
+            },
+            "colorOverlay": "",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "fittingType": "fill",
+            "type": "BackgroundMedia",
+            "id": "dataItem-k2a68lu4",
+            "colorOverlayOpacity": 0,
+            "alignType": "center"
+          }
+        ]
       },
       "pageUriSEO": "blank",
       "title": "New Page",

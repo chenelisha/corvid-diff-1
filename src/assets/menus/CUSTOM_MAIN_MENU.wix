@@ -5,7 +5,7 @@
         "type": "CustomMenu",
         "id": "CUSTOM_MAIN_MENU",
         "metaData": {
-          "isPreset": true,
+          "isPreset": false,
           "schemaVersion": "1.0",
           "isHidden": false
         },
@@ -17,10 +17,15 @@
         "id": "bmi23nr",
         "items": []
       },
+      "dataItem-k2a5v9zf": {
+        "id": "dataItem-k2a5v9zf",
+        "items": []
+      },
       "CUSTOM_MAIN_MENU": {
         "id": "CUSTOM_MAIN_MENU",
         "items": [
-          "#bmi23nr"
+          "#bmi23nr",
+          "#dataItem-k2a5v9zf"
         ]
       }
     }

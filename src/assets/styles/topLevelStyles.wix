@@ -1863,6 +1863,25 @@
       "id": "txtNew",
       "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
     },
+    "style-k2a5v9zp": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "style-k2a5v9zp",
+      "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin"
+    },
     "hl4": {
       "componentClassName": "",
       "pageId": "",

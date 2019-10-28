@@ -76,11 +76,12 @@
             "type": "PageLink",
             "id": "1fti",
             "metaData": {
-              "isPreset": true,
+              "isPreset": false,
               "schemaVersion": "1.0",
               "isHidden": false
             },
-            "pageId": "#c1dmp"
+            "pageId": "#c1dmp",
+            "target": "_self"
           }
         }
       }

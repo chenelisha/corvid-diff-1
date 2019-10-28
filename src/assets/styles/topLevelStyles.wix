@@ -935,6 +935,43 @@
       "id": "ddm2",
       "skin": "wysiwyg.common.components.dropdownmenu.viewer.skins.SolidColorMenuButtonSkin"
     },
+    "style-k2a652sj1": {
+      "componentClassName": "wixui.ProgressBar",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "alpha-borderColor": "0",
+          "barBackgroundColor": "#CDF7F1",
+          "barForegroundColor": "#13D6D6",
+          "borderColor": "#FFFFFF",
+          "borderRadius": "5px 5px 5px 5px",
+          "borderSize": "0",
+          "boxShadow": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "boxShadowToggleOn-boxShadow": "false"
+        },
+        "propertiesSource": {
+          "alpha-borderColor": "value",
+          "barBackgroundColor": "value",
+          "barForegroundColor": "value",
+          "borderColor": "value",
+          "borderRadius": "value",
+          "borderSize": "value",
+          "boxShadow": "value",
+          "boxShadowToggleOn-boxShadow": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a652sj1",
+      "skin": "wixui.skins.ProgressBar"
+    },
     "style-k2a63hng": {
       "componentClassName": "mobile.core.components.Container",
       "pageId": "",

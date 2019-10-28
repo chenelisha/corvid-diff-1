@@ -275,6 +275,25 @@
           "type": "Container"
         },
         {
+          "componentType": "wixui.ProgressBar",
+          "connectionQuery": "connection-k2a652t2",
+          "dataQuery": "#dataItem-k2a652sh",
+          "id": "comp-k2a652qm",
+          "layout": {
+            "fixedPosition": false,
+            "height": 10,
+            "rotationInDegrees": 0,
+            "scale": 0.66,
+            "width": 305,
+            "x": 517,
+            "y": 654.8888888888889
+          },
+          "propertyQuery": "propItem-k2a652sj",
+          "skin": "wixui.skins.ProgressBar",
+          "styleId": "style-k2a652sj1",
+          "type": "Component"
+        },
+        {
           "components": [
             {
               "componentType": "wysiwyg.viewer.components.SiteButton",
@@ -344,7 +363,7 @@
                 "scale": 1,
                 "width": 50,
                 "x": 253,
-                "y": 473
+                "y": 493
               },
               "skin": "wysiwyg.viewer.skins.inlinePopupToggle.inlinePopupToggleSkin4",
               "styleId": "style-jz9vc9ps",
@@ -567,6 +586,25 @@
               "type": "RepeaterContainer"
             },
             {
+              "componentType": "wixui.ProgressBar",
+              "connectionQuery": "connection-k2a652t2",
+              "dataQuery": "#dataItem-k2a652sh",
+              "id": "comp-k2a652qm",
+              "layout": {
+                "fixedPosition": false,
+                "height": 10,
+                "rotationInDegrees": 0,
+                "scale": 0.66,
+                "width": 300,
+                "x": 10,
+                "y": 473
+              },
+              "propertyQuery": "propItem-k2a652sj",
+              "skin": "wixui.skins.ProgressBar",
+              "styleId": "style-k2a652sj1",
+              "type": "Component"
+            },
+            {
               "behaviorQuery": "behavior-jz9tlsvs",
               "components": [
                 {
@@ -626,7 +664,7 @@
           "id": "SITE_HEADER",
           "layout": {
             "fixedPosition": false,
-            "height": 533,
+            "height": 553,
             "rotationInDegrees": 0,
             "scale": 1,
             "width": 320,
@@ -668,7 +706,7 @@
             "scale": 1,
             "width": 320,
             "x": 0,
-            "y": 533
+            "y": 553
           },
           "skin": "wysiwyg.viewer.skins.screenwidthcontainer.BlankScreen",
           "styleId": "pc1",
@@ -706,7 +744,7 @@
             "scale": 1,
             "width": 320,
             "x": 0,
-            "y": 733
+            "y": 753
           },
           "skin": "wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen",
           "styleId": "fc1",
@@ -1187,6 +1225,17 @@
           "text": "<p class=\"font_7\" style=\"font-size:26px; line-height:1.5em\"><span style=\"font-size:26px\"><span style=\"color:#36B5CD\"><span style=\"font-family:avenir-lt-w01_85-heavy1475544,sans-serif\">$399</span></span></span></p>",
           "stylesMapId": "CK_EDITOR_PARAGRAPH_STYLES",
           "linkList": []
+        },
+        "dataItem-k2a652sh": {
+          "id": "dataItem-k2a652sh",
+          "type": "ProgressBar",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "value": 0,
+          "targetValue": 100
         },
         "dataItem-k2a63hss__item2": {
           "id": "dataItem-k2a63hss__item2",
@@ -1914,6 +1963,21 @@
             "isHidden": false
           }
         },
+        "connection-k2a652t2": {
+          "id": "connection-k2a652t2",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "progressBar1"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
         "connection-k290y3ei1": {
           "type": "ConnectionList",
           "id": "connection-k290y3ei1",
@@ -2130,6 +2194,16 @@
           },
           "align": "center",
           "margin": 0
+        },
+        "propItem-k2a652sj": {
+          "id": "propItem-k2a652sj",
+          "type": "ProgressBarProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "direction": "ltr"
         },
         "propItem-k2a63hst": {
           "id": "propItem-k2a63hst",

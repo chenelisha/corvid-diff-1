@@ -13,6 +13,7 @@
         },
         "connectionQuery": "connection-k2a5va02",
         "styleId": "style-k2a5v9zp",
+        "behaviorQuery": "behavior-k2a5wgw9",
         "components": [],
         "componentType": "mobile.core.components.Page",
         "mobileComponents": [],
@@ -26,7 +27,18 @@
         "component_properties": [],
         "document_data": [],
         "theme_data": [],
-        "behaviors_data": [],
+        "behaviors_data": [
+          {
+            "id": "behavior-k2a5wgw9",
+            "type": "ObsoleteBehaviorsList",
+            "items": "[{\"action\":{\"sourceId\":\"lo4ns\",\"type\":\"comp\",\"name\":\"load\"},\"behavior\":{\"targetId\":\"bs1jr\",\"type\":\"site\",\"name\":\"openPopup\",\"params\":{\"delay\":2,\"openInDesktop\":true,\"openInMobile\":false}}}]",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
         "connections_data": [
           {
             "id": "connection-k2a5va02",

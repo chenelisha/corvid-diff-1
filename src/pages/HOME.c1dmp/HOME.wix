@@ -36,6 +36,29 @@
             "mobileHintsQuery": "mobileHints-k2a6ahzi"
           },
           {
+            "connectionQuery": "connection-k2a6dblb",
+            "layout": {
+              "x": 855.462962962963,
+              "y": 137,
+              "fixedPosition": false,
+              "width": 60,
+              "height": 96,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "style-k2a6dbkl",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "componentType": "platform.components.AppController",
+            "type": "Component",
+            "id": "comp-k2a6dbis",
+            "skin": "platform.components.skins.controllerSkin",
+            "dataQuery": "#dataItem-k2a6dbkg"
+          },
+          {
             "connectionQuery": "connection-k2a5xgcl",
             "layout": {
               "x": 0,
@@ -136,29 +159,6 @@
             "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin",
             "dataQuery": "#dataItem-k2a5xgbg",
             "mobileHintsQuery": "mobileHints-k2a5xgfh"
-          },
-          {
-            "connectionQuery": "connection-k2a6dblb",
-            "layout": {
-              "x": 855.462962962963,
-              "y": 137,
-              "fixedPosition": false,
-              "width": 60,
-              "height": 96,
-              "scale": 1,
-              "rotationInDegrees": 0
-            },
-            "styleId": "style-k2a6dbkl",
-            "metaData": {
-              "isPreset": false,
-              "schemaVersion": "1.0",
-              "isHidden": false
-            },
-            "componentType": "platform.components.AppController",
-            "type": "Component",
-            "id": "comp-k2a6dbis",
-            "skin": "platform.components.skins.controllerSkin",
-            "dataQuery": "#dataItem-k2a6dbkg"
           }
         ],
         "componentType": "mobile.core.components.Page",

@@ -1,0 +1,397 @@
+{
+  "content": {
+    "data": {
+      "dataItem-k2a6rnv6": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 1,
+        "appDefinitionId": "14dbef06-cc42-5583-32a7-3abd44da4908",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "Profile",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnv7",
+        "id": "dataItem-k2a6rnv6"
+      },
+      "dataItem-k2a6rnv7": {
+        "id": "dataItem-k2a6rnv7",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v1",
+        "innerRoute": "{userName}/profile",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rkx1": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 2,
+        "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "My Orders",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rkx11",
+        "id": "dataItem-k2a6rkx1"
+      },
+      "dataItem-k2a6rkx11": {
+        "id": "dataItem-k2a6rkx11",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v",
+        "innerRoute": "my-orders",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rkx12": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 2,
+        "appDefinitionId": "1505b775-e885-eb1b-b665-1e485d9bf90e",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "My Addresses",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rkx2",
+        "id": "dataItem-k2a6rkx12"
+      },
+      "dataItem-k2a6rkx2": {
+        "id": "dataItem-k2a6rkx2",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v",
+        "innerRoute": "my-addresses",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rkx21": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 2,
+        "appDefinitionId": "4aebd0cb-fbdb-4da7-b5d1-d05660a30172",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "My Wallet",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rkx22",
+        "id": "dataItem-k2a6rkx21"
+      },
+      "dataItem-k2a6rkx22": {
+        "id": "dataItem-k2a6rkx22",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v",
+        "innerRoute": "my-wallet",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rnv71": {
+        "isVisible": false,
+        "isVisibleMobile": false,
+        "order": 2,
+        "appDefinitionId": "14ebe801-d78a-daa9-c9e5-0286a891e46f",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "Followers",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnv72",
+        "id": "dataItem-k2a6rnv71"
+      },
+      "dataItem-k2a6rnv72": {
+        "id": "dataItem-k2a6rnv72",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v1",
+        "innerRoute": "{userName}/followers",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rnv73": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 2,
+        "appDefinitionId": "14bcded7-0066-7c35-14d7-466cb3f09103",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "Blog Posts",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnv74",
+        "id": "dataItem-k2a6rnv73"
+      },
+      "dataItem-k2a6rnv74": {
+        "id": "dataItem-k2a6rnv74",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v1",
+        "innerRoute": "{userName}/blog-posts",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rnv75": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 2,
+        "appDefinitionId": "14bcded7-0066-7c35-14d7-466cb3f09103",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "Blog Comments ",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnv76",
+        "id": "dataItem-k2a6rnv75"
+      },
+      "dataItem-k2a6rnv76": {
+        "id": "dataItem-k2a6rnv76",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v1",
+        "innerRoute": "{userName}/blog-comments",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rnv8": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 2,
+        "appDefinitionId": "14bcded7-0066-7c35-14d7-466cb3f09103",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "Blog Likes",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnv81",
+        "id": "dataItem-k2a6rnv8"
+      },
+      "dataItem-k2a6rnv81": {
+        "id": "dataItem-k2a6rnv81",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v1",
+        "innerRoute": "{userName}/blog-likes",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rnv82": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 2,
+        "appDefinitionId": "14bcded7-0066-7c35-14d7-466cb3f09103",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "My Drafts",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnv83",
+        "id": "dataItem-k2a6rnv82"
+      },
+      "dataItem-k2a6rnv83": {
+        "id": "dataItem-k2a6rnv83",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v",
+        "innerRoute": "my-drafts",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6riam": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 3,
+        "appDefinitionId": "14cffd81-5215-0a7f-22f8-074b0e2401fb",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "My Account",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6riam1",
+        "id": "dataItem-k2a6riam"
+      },
+      "dataItem-k2a6riam1": {
+        "id": "dataItem-k2a6riam1",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v",
+        "innerRoute": "my-account",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rnv84": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 4,
+        "appDefinitionId": "14f25924-5664-31b2-9568-f9c5ed98c9b1",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "Notifications",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnv85",
+        "id": "dataItem-k2a6rnv84"
+      },
+      "dataItem-k2a6rnv85": {
+        "id": "dataItem-k2a6rnv85",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v",
+        "innerRoute": "notifications",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "dataItem-k2a6rnv86": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 4,
+        "appDefinitionId": "14f25dc5-6af3-5420-9568-f9c5ed98c9b1",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "Settings",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnv87",
+        "id": "dataItem-k2a6rnv86"
+      },
+      "dataItem-k2a6rnv87": {
+        "id": "dataItem-k2a6rnv87",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v",
+        "innerRoute": "settings",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "MEMBERS_SUB_MENU": {
+        "id": "MEMBERS_SUB_MENU",
+        "type": "CustomMenu",
+        "appId": 3940,
+        "name": "Member Menu",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      }
+    },
+    "structure": {
+      "dataItem-k2a6rnv6": {
+        "id": "dataItem-k2a6rnv6",
+        "items": []
+      },
+      "dataItem-k2a6rkx1": {
+        "id": "dataItem-k2a6rkx1",
+        "items": []
+      },
+      "dataItem-k2a6rkx12": {
+        "id": "dataItem-k2a6rkx12",
+        "items": []
+      },
+      "dataItem-k2a6rkx21": {
+        "id": "dataItem-k2a6rkx21",
+        "items": []
+      },
+      "dataItem-k2a6rnv71": {
+        "id": "dataItem-k2a6rnv71",
+        "items": []
+      },
+      "dataItem-k2a6rnv73": {
+        "id": "dataItem-k2a6rnv73",
+        "items": []
+      },
+      "dataItem-k2a6rnv75": {
+        "id": "dataItem-k2a6rnv75",
+        "items": []
+      },
+      "dataItem-k2a6rnv8": {
+        "id": "dataItem-k2a6rnv8",
+        "items": []
+      },
+      "dataItem-k2a6rnv82": {
+        "id": "dataItem-k2a6rnv82",
+        "items": []
+      },
+      "dataItem-k2a6riam": {
+        "id": "dataItem-k2a6riam",
+        "items": []
+      },
+      "dataItem-k2a6rnv84": {
+        "id": "dataItem-k2a6rnv84",
+        "items": []
+      },
+      "dataItem-k2a6rnv86": {
+        "id": "dataItem-k2a6rnv86",
+        "items": []
+      },
+      "MEMBERS_SUB_MENU": {
+        "id": "MEMBERS_SUB_MENU",
+        "items": [
+          "#dataItem-k2a6rnv6",
+          "#dataItem-k2a6rkx1",
+          "#dataItem-k2a6rkx12",
+          "#dataItem-k2a6rkx21",
+          "#dataItem-k2a6rnv71",
+          "#dataItem-k2a6rnv73",
+          "#dataItem-k2a6rnv75",
+          "#dataItem-k2a6rnv8",
+          "#dataItem-k2a6rnv82",
+          "#dataItem-k2a6riam",
+          "#dataItem-k2a6rnv84",
+          "#dataItem-k2a6rnv86"
+        ]
+      }
+    }
+  },
+  "documentSchemaVersion": "1.0"
+}

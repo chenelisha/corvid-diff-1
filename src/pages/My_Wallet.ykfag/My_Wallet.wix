@@ -1,0 +1,162 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rke8",
+        "styleId": "style-k2a6rkdt",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPASection",
+            "type": "Component",
+            "id": "TPASection_k2a6rk8e",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "x": 300,
+              "y": 60,
+              "fixedPosition": false,
+              "width": 660,
+              "height": 600,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "dataQuery": "#dataItem-k2a6rkeq",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rkf0"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rkf0",
+            "layout": {
+              "x": 20,
+              "y": 10,
+              "fixedPosition": false,
+              "width": 280,
+              "height": 255,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPASection",
+            "type": "Component",
+            "id": "TPASection_k2a6rk8e",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rkeq"
+          }
+        ],
+        "type": "Page",
+        "id": "ykfag",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#ykfag",
+        "mobileHintsQuery": "mobileHints-k2a6rkek"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rkeq",
+            "appDefinitionId": "4aebd0cb-fbdb-4da7-b5d1-d05660a30172",
+            "type": "TPA",
+            "applicationId": "6195",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "6467c15e-af3c-4e8d-b167-41bfb8efc32a",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rke8",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rkf0",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "myWallet1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rkek",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "my-wallet",
+      "title": "My Wallet",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rkdq": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rkdq",
+            "label": "My Wallet",
+            "link": "#dataItem-k2a6rkdq1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rkdq1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#ykfag",
+            "id": "dataItem-k2a6rkdq1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "my-wallet",
+    "title": "My Wallet",
+    "isPopup": false,
+    "pageId": "ykfag"
+  },
+  "documentSchemaVersion": "1.0"
+}

@@ -1,0 +1,172 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rfiw",
+        "styleId": "style-k2a6rfin",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rfii",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "fixedPosition": true,
+              "scale": 1,
+              "rotationInDegrees": 0,
+              "docked": {
+                "top": {
+                  "px": 0
+                },
+                "right": {
+                  "px": 0
+                },
+                "bottom": {
+                  "px": 0
+                },
+                "left": {
+                  "px": 0
+                }
+              }
+            },
+            "dataQuery": "#dataItem-k2a6rfja",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rfjl"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rfjl",
+            "layout": {
+              "fixedPosition": false,
+              "scale": 1,
+              "rotationInDegrees": 0,
+              "height": 5,
+              "width": 320,
+              "x": 0,
+              "y": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rfii",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rfja"
+          }
+        ],
+        "type": "Page",
+        "id": "d04qa",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#d04qa",
+        "mobileHintsQuery": "mobileHints-k2a6rfj5"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rfja",
+            "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+            "type": "TPAMultiSection",
+            "applicationId": "3081",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "14fd5970-8072-c276-1246-058b79e70c1a",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rfiw",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rfjl",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "checkout1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rfj5",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "checkout",
+      "title": "Checkout",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rfik": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rfik",
+            "label": "Checkout",
+            "link": "#dataItem-k2a6rfik1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rfik1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#d04qa",
+            "id": "dataItem-k2a6rfik1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "checkout",
+    "title": "Checkout",
+    "isPopup": false,
+    "pageId": "d04qa"
+  },
+  "documentSchemaVersion": "1.0"
+}

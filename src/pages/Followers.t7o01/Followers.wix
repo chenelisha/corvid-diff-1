@@ -1,0 +1,162 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rmsh",
+        "styleId": "style-k2a6rms0",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPASection",
+            "type": "Component",
+            "id": "TPASection_k2a6rmmh",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "x": 300,
+              "y": 60,
+              "fixedPosition": false,
+              "width": 660,
+              "height": 600,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "dataQuery": "#dataItem-k2a6rmt2",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rmtd"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rmtd",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 320,
+              "height": 291,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPASection",
+            "type": "Component",
+            "id": "TPASection_k2a6rmmh",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rmt2"
+          }
+        ],
+        "type": "Page",
+        "id": "t7o01",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#t7o01",
+        "mobileHintsQuery": "mobileHints-k2a6rmsv"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rmt2",
+            "appDefinitionId": "14ebe801-d78a-daa9-c9e5-0286a891e46f",
+            "type": "TPA",
+            "applicationId": "7159",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "14ebe825-b273-0d5f-0fd1-e6293322b83b",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rmsh",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rmtd",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "followingFollowers1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rmsv",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "followers",
+      "title": "Followers",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rmrw": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rmrw",
+            "label": "Followers",
+            "link": "#dataItem-k2a6rmrw1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rmrw1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#t7o01",
+            "id": "dataItem-k2a6rmrw1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "followers",
+    "title": "Followers",
+    "isPopup": false,
+    "pageId": "t7o01"
+  },
+  "documentSchemaVersion": "1.0"
+}

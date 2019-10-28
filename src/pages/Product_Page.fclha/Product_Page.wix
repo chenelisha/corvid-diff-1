@@ -1,0 +1,162 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rff7",
+        "styleId": "style-k2a6rfew",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rfeq",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 980,
+              "height": 500,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "dataQuery": "#dataItem-k2a6rffm",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rfft"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rfft",
+            "layout": {
+              "x": 20,
+              "y": 10,
+              "fixedPosition": false,
+              "width": 280,
+              "height": 143,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rfeq",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rffm"
+          }
+        ],
+        "type": "Page",
+        "id": "fclha",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#fclha",
+        "mobileHintsQuery": "mobileHints-k2a6rffg"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rffm",
+            "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+            "type": "TPAMultiSection",
+            "applicationId": "3081",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "13a94f09-2766-3c40-4a32-8edb5acdd8bc",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rff7",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rfft",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "productPage1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rffg",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "product-page",
+      "title": "Product Page",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rfet": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rfet",
+            "label": "Product Page",
+            "link": "#dataItem-k2a6rfet1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rfet1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#fclha",
+            "id": "dataItem-k2a6rfet1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "product-page",
+    "title": "Product Page",
+    "isPopup": false,
+    "pageId": "fclha"
+  },
+  "documentSchemaVersion": "1.0"
+}

@@ -1,0 +1,162 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rm7y",
+        "styleId": "style-k2a6rm7n",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rm7h",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "x": 300,
+              "y": 60,
+              "fixedPosition": false,
+              "width": 660,
+              "height": 600,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "dataQuery": "#dataItem-k2a6rm8h",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rm8u"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rm8u",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 320,
+              "height": 291,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rm7h",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rm8h"
+          }
+        ],
+        "type": "Page",
+        "id": "qxxz7",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#qxxz7",
+        "mobileHintsQuery": "mobileHints-k2a6rm8a"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rm8h",
+            "appDefinitionId": "14bcded7-0066-7c35-14d7-466cb3f09103",
+            "type": "TPAMultiSection",
+            "applicationId": "2569",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "14f260e4-ea13-f861-b0ba-4577df99b961",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rm7y",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rm8u",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "memberDraftsPage1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rm8a",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "my-drafts",
+      "title": "My Drafts",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rm7j": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rm7j",
+            "label": "My Drafts",
+            "link": "#dataItem-k2a6rm7j1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rm7j1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#qxxz7",
+            "id": "dataItem-k2a6rm7j1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "my-drafts",
+    "title": "My Drafts",
+    "isPopup": false,
+    "pageId": "qxxz7"
+  },
+  "documentSchemaVersion": "1.0"
+}

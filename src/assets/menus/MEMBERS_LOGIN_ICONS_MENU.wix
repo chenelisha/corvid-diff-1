@@ -1,0 +1,57 @@
+{
+  "content": {
+    "data": {
+      "dataItem-k2a6rnvc": {
+        "isVisible": true,
+        "isVisibleMobile": true,
+        "order": 4,
+        "appDefinitionId": "14f25924-5664-31b2-9568-f9c5ed98c9b1",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "label": "Notifications",
+        "iconRef": "#dataItem-k2a6rnvc2",
+        "type": "BasicMenuItem",
+        "link": "#dataItem-k2a6rnvc1",
+        "id": "dataItem-k2a6rnvc"
+      },
+      "dataItem-k2a6rnvc1": {
+        "id": "dataItem-k2a6rnvc1",
+        "type": "DynamicPageLink",
+        "routerId": "routers-k2a6rg8v",
+        "innerRoute": "notifications",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      },
+      "MEMBERS_LOGIN_ICONS_MENU": {
+        "id": "MEMBERS_LOGIN_ICONS_MENU",
+        "type": "CustomMenu",
+        "appId": 3940,
+        "name": "Login Icons",
+        "metaData": {
+          "isPreset": false,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        }
+      }
+    },
+    "structure": {
+      "dataItem-k2a6rnvc": {
+        "id": "dataItem-k2a6rnvc",
+        "items": []
+      },
+      "MEMBERS_LOGIN_ICONS_MENU": {
+        "id": "MEMBERS_LOGIN_ICONS_MENU",
+        "items": [
+          "#dataItem-k2a6rnvc"
+        ]
+      }
+    }
+  },
+  "documentSchemaVersion": "1.0"
+}

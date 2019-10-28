@@ -1,0 +1,162 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rlv0",
+        "styleId": "style-k2a6rlup",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rluj",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "x": 300,
+              "y": 60,
+              "fixedPosition": false,
+              "width": 660,
+              "height": 600,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "dataQuery": "#dataItem-k2a6rlvk",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rlvx"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rlvx",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 320,
+              "height": 291,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rluj",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rlvk"
+          }
+        ],
+        "type": "Page",
+        "id": "z8tru",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#z8tru",
+        "mobileHintsQuery": "mobileHints-k2a6rlvc"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rlvk",
+            "appDefinitionId": "14bcded7-0066-7c35-14d7-466cb3f09103",
+            "type": "TPAMultiSection",
+            "applicationId": "2569",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "14f260f9-c2eb-50e8-9b3c-4d21861fe58f",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rlv0",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rlvx",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "memberCommentsPage1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rlvc",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "blog-comments",
+      "title": "Blog Comments ",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rlul": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rlul",
+            "label": "Blog Comments ",
+            "link": "#dataItem-k2a6rlul1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rlul1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#z8tru",
+            "id": "dataItem-k2a6rlul1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "blog-comments",
+    "title": "Blog Comments ",
+    "isPopup": false,
+    "pageId": "z8tru"
+  },
+  "documentSchemaVersion": "1.0"
+}

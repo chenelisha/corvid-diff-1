@@ -1,0 +1,162 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rk3q",
+        "styleId": "style-k2a6rk3f",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPASection",
+            "type": "Component",
+            "id": "TPASection_k2a6rjxb",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "x": 300,
+              "y": 60,
+              "fixedPosition": false,
+              "width": 660,
+              "height": 600,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "dataQuery": "#dataItem-k2a6rk48",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rk4i"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rk4i",
+            "layout": {
+              "x": 20,
+              "y": 10,
+              "fixedPosition": false,
+              "width": 280,
+              "height": 255,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPASection",
+            "type": "Component",
+            "id": "TPASection_k2a6rjxb",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rk48"
+          }
+        ],
+        "type": "Page",
+        "id": "rh970",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#rh970",
+        "mobileHintsQuery": "mobileHints-k2a6rk42"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rk48",
+            "appDefinitionId": "1505b775-e885-eb1b-b665-1e485d9bf90e",
+            "type": "TPA",
+            "applicationId": "5833",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "151290e1-62a2-0775-6fbc-02182fad5dec",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rk3q",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rk4i",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "myAddresses1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rk42",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "my-addresses",
+      "title": "My Addresses",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rk3c": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rk3c",
+            "label": "My Addresses",
+            "link": "#dataItem-k2a6rk3c1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rk3c1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#rh970",
+            "id": "dataItem-k2a6rk3c1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "my-addresses",
+    "title": "My Addresses",
+    "isPopup": false,
+    "pageId": "rh970"
+  },
+  "documentSchemaVersion": "1.0"
+}

@@ -1,0 +1,162 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rfhm",
+        "styleId": "style-k2a6rfhd",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rfh8",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 980,
+              "height": 500,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "dataQuery": "#dataItem-k2a6rfi3",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rfib"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rfib",
+            "layout": {
+              "x": 20,
+              "y": 10,
+              "fixedPosition": false,
+              "width": 280,
+              "height": 143,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPAMultiSection",
+            "type": "Component",
+            "id": "TPAMultiSection_k2a6rfh8",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rfi3"
+          }
+        ],
+        "type": "Page",
+        "id": "epeh4",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#epeh4",
+        "mobileHintsQuery": "mobileHints-k2a6rfhx"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rfi3",
+            "appDefinitionId": "1380b703-ce81-ff05-f115-39571d94dfcd",
+            "type": "TPAMultiSection",
+            "applicationId": "3081",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "1380bbb4-8df0-fd38-a235-88821cf3f8a4",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rfhm",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rfib",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "thankYouPage1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rfhx",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "thank-you-page",
+      "title": "Thank You Page",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rfh9": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rfh9",
+            "label": "Thank You Page",
+            "link": "#dataItem-k2a6rfh91",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rfh91": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#epeh4",
+            "id": "dataItem-k2a6rfh91",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "thank-you-page",
+    "title": "Thank You Page",
+    "isPopup": false,
+    "pageId": "epeh4"
+  },
+  "documentSchemaVersion": "1.0"
+}

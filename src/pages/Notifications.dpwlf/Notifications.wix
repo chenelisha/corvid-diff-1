@@ -1,0 +1,162 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6rn37",
+        "styleId": "style-k2a6rn2q",
+        "components": [
+          {
+            "componentType": "wysiwyg.viewer.components.tpapps.TPASection",
+            "type": "Component",
+            "id": "TPASection_k2a6rmx9",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "layout": {
+              "x": 300,
+              "y": 60,
+              "fixedPosition": false,
+              "width": 660,
+              "height": 600,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "dataQuery": "#dataItem-k2a6rn3s",
+            "styleId": "tpas0",
+            "connectionQuery": "connection-k2a6rn42"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "connectionQuery": "connection-k2a6rn42",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 320,
+              "height": 291,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "tpas0",
+            "componentType": "wysiwyg.viewer.components.tpapps.TPASection",
+            "type": "Component",
+            "id": "TPASection_k2a6rmx9",
+            "skin": "wysiwyg.viewer.skins.TPASectionSkin",
+            "dataQuery": "#dataItem-k2a6rn3s"
+          }
+        ],
+        "type": "Page",
+        "id": "dpwlf",
+        "skin": "skins.core.InlineSkin",
+        "dataQuery": "#dpwlf",
+        "mobileHintsQuery": "mobileHints-k2a6rn3l"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6rn3s",
+            "appDefinitionId": "14f25924-5664-31b2-9568-f9c5ed98c9b1",
+            "type": "TPA",
+            "applicationId": "7265",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "widgetId": "14f2595a-a352-3ff1-9b3c-4d21861fe58f",
+            "referenceId": ""
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6rn37",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6rn42",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "notificationsApp1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6rn3l",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "notifications",
+      "title": "Notifications",
+      "translations": {},
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6rn2m": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6rn2m",
+            "label": "Notifications",
+            "link": "#dataItem-k2a6rn2m1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6rn2m1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#dpwlf",
+            "id": "dataItem-k2a6rn2m1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "notifications",
+    "title": "Notifications",
+    "isPopup": false,
+    "pageId": "dpwlf"
+  },
+  "documentSchemaVersion": "1.0"
+}

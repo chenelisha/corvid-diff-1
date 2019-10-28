@@ -79,6 +79,18 @@
       "type": "text",
       "index": 0
     },
+    "link-sample-_id-title": {
+      "displayName": "Sample (ID, Title)",
+      "type": "pagelink",
+      "calculator": {
+        "id": "FIELDS_PATTERN",
+        "config": {
+          "pattern": "/sample/{_id}/{title}"
+        }
+      },
+      "plugin": "dataBinding",
+      "index": 6
+    },
     "link-sample-title": {
       "displayName": "Sample (Title)",
       "type": "pagelink",

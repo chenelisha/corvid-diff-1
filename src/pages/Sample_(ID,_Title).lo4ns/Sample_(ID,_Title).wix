@@ -164,6 +164,23 @@
             "id": "comp-k2a69s5w",
             "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
             "dataQuery": "#dataItem-k2a69s7q"
+          },
+          {
+            "layout": {
+              "x": 450,
+              "y": 70,
+              "fixedPosition": false,
+              "width": 60,
+              "height": 96,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "componentType": "platform.components.AppController",
+            "id": "comp-k2a6mfdn",
+            "type": "Component",
+            "dataQuery": "#dataItem-k2a6mff2",
+            "styleId": "controller1",
+            "connectionQuery": "connection-k2a6mff4"
           }
         ],
         "componentType": "mobile.core.components.Page",
@@ -889,6 +906,18 @@
               "schemaVersion": "1.0",
               "isHidden": false
             }
+          },
+          {
+            "id": "dataItem-k2a6mff2",
+            "type": "AppController",
+            "name": "Sample Item",
+            "controllerType": "router_dataset",
+            "applicationId": "dataBinding",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
           }
         ],
         "theme_data": [
@@ -1213,6 +1242,21 @@
               {
                 "type": "WixCodeConnectionItem",
                 "role": "dataset2"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6mff4",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "dynamicDataset"
               }
             ],
             "metaData": {
@@ -1772,10 +1816,10 @@
         "CUSTOM_MAIN_MENU": {
           "dataItem-k2a5v9zf": {
             "type": "BasicMenuItem",
-            "isVisible": true,
-            "isVisibleMobile": true,
+            "isVisible": false,
+            "isVisibleMobile": false,
             "id": "dataItem-k2a5v9zf",
-            "label": "Page2",
+            "label": "Sample (ID, Title)",
             "link": "#dataItem-k2a5v9zf1",
             "metaData": {
               "isPreset": false,
@@ -1798,7 +1842,7 @@
       }
     },
     "pageUriSeo": "page2",
-    "title": "Page2",
+    "title": "Sample (ID, Title)",
     "isPopup": false,
     "pageId": "lo4ns"
   },

@@ -80,15 +80,19 @@
       "index": 0
     },
     "link-sample-title": {
+      "plugin": "dataBinding",
       "displayName": "Sample (Title)",
-      "type": "pagelink",
       "calculator": {
         "id": "FIELDS_PATTERN",
         "config": {
           "pattern": "/sample/{title}"
         }
       },
-      "plugin": "dataBinding",
+      "sortable": false,
+      "queryOperators": [],
+      "isDeleted": false,
+      "systemField": true,
+      "type": "pagelink",
       "index": 5
     }
   },

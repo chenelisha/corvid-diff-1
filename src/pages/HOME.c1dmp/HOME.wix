@@ -15,6 +15,27 @@
         "styleId": "p1",
         "components": [
           {
+            "connectionQuery": "connection-k2a6ahyq",
+            "layout": {
+              "x": 101.5,
+              "y": 126.5,
+              "fixedPosition": false,
+              "width": 310,
+              "height": 65,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "txtNew",
+            "propertyQuery": "propItem-k2a6ahyp",
+            "previousStyleId": "txtNew",
+            "componentType": "wysiwyg.viewer.components.WRichText",
+            "type": "Component",
+            "id": "comp-k2a6ahx7",
+            "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
+            "dataQuery": "#dataItem-k2a6ahyl",
+            "mobileHintsQuery": "mobileHints-k2a6ahzi"
+          },
+          {
             "connectionQuery": "connection-k2a5xgcl",
             "layout": {
               "x": 0,
@@ -115,27 +136,6 @@
             "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin",
             "dataQuery": "#dataItem-k2a5xgbg",
             "mobileHintsQuery": "mobileHints-k2a5xgfh"
-          },
-          {
-            "connectionQuery": "connection-k2a6ahyq",
-            "layout": {
-              "x": 101.5,
-              "y": 126.5,
-              "fixedPosition": false,
-              "width": 310,
-              "height": 65,
-              "scale": 1,
-              "rotationInDegrees": 0
-            },
-            "styleId": "txtNew",
-            "propertyQuery": "propItem-k2a6ahyp",
-            "previousStyleId": "txtNew",
-            "componentType": "wysiwyg.viewer.components.WRichText",
-            "type": "Component",
-            "id": "comp-k2a6ahx7",
-            "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
-            "dataQuery": "#dataItem-k2a6ahyl",
-            "mobileHintsQuery": "mobileHints-k2a6ahzi"
           }
         ],
         "componentType": "mobile.core.components.Page",

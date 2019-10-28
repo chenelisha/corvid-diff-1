@@ -1384,6 +1384,55 @@
       "id": "fk1",
       "skin": "wysiwyg.viewer.skins.FlickrBadgeWidgetSkin"
     },
+    "style-k2a5yx7m": {
+      "componentClassName": "wysiwyg.viewer.components.SiteButton",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bgh": "#CEF0EA",
+          "alpha-brdh": "0",
+          "bg": "#B6F3E8",
+          "alpha-brd": "1",
+          "brw": "0px",
+          "alpha-txth": "1",
+          "fnt": "normal normal normal 14px/1.4em avenir-lt-w01_85-heavy1475544",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "txt": "#323232",
+          "rd": "5px",
+          "brdh": "#FFFFFF",
+          "brd": "#B6F3E8",
+          "alpha-bg": "1",
+          "alpha-bgh": "1",
+          "txth": "#000000"
+        },
+        "propertiesSource": {
+          "bgh": "value",
+          "alpha-brdh": "value",
+          "bg": "value",
+          "brw": "value",
+          "fnt": "value",
+          "shd": "value",
+          "txt": "value",
+          "rd": "value",
+          "brdh": "value",
+          "brd": "value",
+          "txth": "value"
+        }
+      },
+      "type": "ComponentStyle",
+      "id": "style-k2a5yx7m",
+      "skin": "wysiwyg.viewer.skins.button.BasicButton"
+    },
     "ssg3": {
       "componentClassName": "",
       "pageId": "",

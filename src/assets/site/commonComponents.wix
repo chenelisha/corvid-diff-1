@@ -3,7 +3,27 @@
     "structure": {
       "children": [
         {
-          "components": [],
+          "components": [
+            {
+              "componentType": "wysiwyg.viewer.components.SiteButton",
+              "connectionQuery": "connection-k2a5yx81",
+              "dataQuery": "#dataItem-k2a5yx7j",
+              "id": "comp-k2a5yx57",
+              "layout": {
+                "fixedPosition": false,
+                "height": 40,
+                "rotationInDegrees": 0,
+                "scale": 1,
+                "width": 177,
+                "x": 452,
+                "y": 41
+              },
+              "propertyQuery": "propItem-k2a5yx7l",
+              "skin": "wysiwyg.viewer.skins.button.BasicButton",
+              "styleId": "style-k2a5yx7m",
+              "type": "Component"
+            }
+          ],
           "componentType": "wysiwyg.viewer.components.HeaderContainer",
           "connectionQuery": "connection-k290y3ei1",
           "id": "SITE_HEADER",
@@ -107,10 +127,29 @@
                 "scale": 1,
                 "width": 50,
                 "x": 253,
-                "y": 20
+                "y": 62
               },
               "skin": "wysiwyg.viewer.skins.inlinePopupToggle.inlinePopupToggleSkin4",
               "styleId": "style-jz9vc9ps",
+              "type": "Component"
+            },
+            {
+              "componentType": "wysiwyg.viewer.components.SiteButton",
+              "connectionQuery": "connection-k2a5yx81",
+              "dataQuery": "#dataItem-k2a5yx7j",
+              "id": "comp-k2a5yx57",
+              "layout": {
+                "fixedPosition": false,
+                "height": 42,
+                "rotationInDegrees": 0,
+                "scale": 0.9333333333333333,
+                "width": 160,
+                "x": 80,
+                "y": 10
+              },
+              "propertyQuery": "propItem-k2a5yx7l",
+              "skin": "wysiwyg.viewer.skins.button.BasicButton",
+              "styleId": "style-k2a5yx7m",
               "type": "Component"
             },
             {
@@ -173,7 +212,7 @@
           "id": "SITE_HEADER",
           "layout": {
             "fixedPosition": false,
-            "height": 100,
+            "height": 122,
             "rotationInDegrees": 0,
             "scale": 1,
             "width": 320,
@@ -215,7 +254,7 @@
             "scale": 1,
             "width": 320,
             "x": 0,
-            "y": 100
+            "y": 122
           },
           "skin": "wysiwyg.viewer.skins.screenwidthcontainer.BlankScreen",
           "styleId": "pc1",
@@ -233,7 +272,7 @@
             "scale": 1,
             "width": 320,
             "x": 0,
-            "y": 300
+            "y": 322
           },
           "skin": "wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen",
           "styleId": "fc1",
@@ -361,6 +400,16 @@
           },
           "groups": []
         },
+        "dataItem-k2a5yx7j": {
+          "id": "dataItem-k2a5yx7j",
+          "type": "LinkableButton",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "label": "Discover More"
+        },
         "dataItem-jz9tlsw3": {
           "type": "CustomMenuDataRef",
           "id": "dataItem-jz9tlsw3",
@@ -432,13 +481,48 @@
         }
       },
       "connections_data": {
-        "connection-jz9tlsw5": {
+        "connection-k290yihm": {
           "type": "ConnectionList",
-          "id": "connection-jz9tlsw5",
+          "id": "connection-k290yihm",
           "items": [
             {
               "type": "WixCodeConnectionItem",
-              "role": "expandableMenu1"
+              "role": "backToTop1"
+            }
+          ]
+        },
+        "connection-k2a5yx81": {
+          "id": "connection-k2a5yx81",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "button3"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
+        "connection-k290yihn": {
+          "type": "ConnectionList",
+          "id": "connection-k290yihn",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "menuContainer1"
+            }
+          ]
+        },
+        "connection-k290y3ei1": {
+          "type": "ConnectionList",
+          "id": "connection-k290y3ei1",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "header1"
             }
           ]
         },
@@ -472,36 +556,6 @@
             }
           ]
         },
-        "connection-k290y3ei1": {
-          "type": "ConnectionList",
-          "id": "connection-k290y3ei1",
-          "items": [
-            {
-              "type": "WixCodeConnectionItem",
-              "role": "header1"
-            }
-          ]
-        },
-        "connection-k290yihm": {
-          "type": "ConnectionList",
-          "id": "connection-k290yihm",
-          "items": [
-            {
-              "type": "WixCodeConnectionItem",
-              "role": "backToTop1"
-            }
-          ]
-        },
-        "connection-k290yihn": {
-          "type": "ConnectionList",
-          "id": "connection-k290yihn",
-          "items": [
-            {
-              "type": "WixCodeConnectionItem",
-              "role": "menuContainer1"
-            }
-          ]
-        },
         "connection-k290yihn1": {
           "type": "ConnectionList",
           "id": "connection-k290yihn1",
@@ -509,6 +563,16 @@
             {
               "type": "WixCodeConnectionItem",
               "role": "menuToggle1"
+            }
+          ]
+        },
+        "connection-jz9tlsw5": {
+          "type": "ConnectionList",
+          "id": "connection-jz9tlsw5",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "expandableMenu1"
             }
           ]
         }
@@ -531,6 +595,17 @@
           "menuArrowDirection": "left",
           "originalHeight": 225,
           "menuItemHeight": 56
+        },
+        "propItem-k2a5yx7l": {
+          "id": "propItem-k2a5yx7l",
+          "type": "ButtonProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "align": "center",
+          "margin": 0
         }
       },
       "mobile_hints": {

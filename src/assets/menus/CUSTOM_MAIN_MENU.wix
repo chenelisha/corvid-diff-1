@@ -21,11 +21,21 @@
         "id": "dataItem-k2a5v9zf",
         "items": []
       },
+      "dataItem-k2a67e88": {
+        "id": "dataItem-k2a67e88",
+        "items": []
+      },
+      "dataItem-k2a67eab": {
+        "id": "dataItem-k2a67eab",
+        "items": []
+      },
       "CUSTOM_MAIN_MENU": {
         "id": "CUSTOM_MAIN_MENU",
         "items": [
           "#bmi23nr",
-          "#dataItem-k2a5v9zf"
+          "#dataItem-k2a5v9zf",
+          "#dataItem-k2a67e88",
+          "#dataItem-k2a67eab"
         ]
       }
     }

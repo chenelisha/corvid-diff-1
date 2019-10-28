@@ -1525,6 +1525,25 @@
       "id": "gm1",
       "skin": "wysiwyg.viewer.skins.GoogleMapSkin"
     },
+    "style-k2a67eaf": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "style-k2a67eaf",
+      "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin"
+    },
     "ssg2": {
       "componentClassName": "",
       "pageId": "",
@@ -2761,6 +2780,25 @@
       "type": "TopLevelStyle",
       "id": "fc3",
       "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "style-k2a67e8i": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "style-k2a67e8i",
+      "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin"
     },
     "mg1": {
       "componentClassName": "",

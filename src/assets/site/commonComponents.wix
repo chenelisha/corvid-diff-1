@@ -78,7 +78,27 @@
           "type": "Container"
         },
         {
-          "components": [],
+          "components": [
+            {
+              "componentType": "wysiwyg.viewer.components.SiteButton",
+              "connectionQuery": "connection-k2a62gy3",
+              "dataQuery": "#dataItem-k2a62gxk",
+              "id": "comp-k2a62gvw",
+              "layout": {
+                "fixedPosition": false,
+                "height": 40,
+                "rotationInDegrees": 0,
+                "scale": 1,
+                "width": 143,
+                "x": 570,
+                "y": 15
+              },
+              "propertyQuery": "propItem-k2a62gxl",
+              "skin": "wysiwyg.viewer.skins.button.BasicButton",
+              "styleId": "style-k2a62gxl1",
+              "type": "Component"
+            }
+          ],
           "componentType": "wysiwyg.viewer.components.FooterContainer",
           "connectionQuery": "connection-k290y3eg",
           "id": "SITE_FOOTER",
@@ -261,7 +281,27 @@
           "type": "Container"
         },
         {
-          "components": [],
+          "components": [
+            {
+              "componentType": "wysiwyg.viewer.components.SiteButton",
+              "connectionQuery": "connection-k2a62gy3",
+              "dataQuery": "#dataItem-k2a62gxk",
+              "id": "comp-k2a62gvw",
+              "layout": {
+                "fixedPosition": false,
+                "height": 42,
+                "rotationInDegrees": 0,
+                "scale": 0.9333333333333333,
+                "width": 160,
+                "x": 80,
+                "y": 10
+              },
+              "propertyQuery": "propItem-k2a62gxl",
+              "skin": "wysiwyg.viewer.skins.button.BasicButton",
+              "styleId": "style-k2a62gxl1",
+              "type": "Component"
+            }
+          ],
           "componentType": "wysiwyg.viewer.components.FooterContainer",
           "connectionQuery": "connection-k290y3eg",
           "id": "SITE_FOOTER",
@@ -389,6 +429,16 @@
           "appType": "ListsApps",
           "dataItemRef": "#appPart22zi",
           "mutableSeoTitle": "edit-post"
+        },
+        "dataItem-k2a62gxk": {
+          "id": "dataItem-k2a62gxk",
+          "type": "LinkableButton",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "label": "View More"
         },
         "PAGES_GROUP_COLLECTION": {
           "type": "PagesGroupCollection",
@@ -566,6 +616,21 @@
             }
           ]
         },
+        "connection-k2a62gy3": {
+          "id": "connection-k2a62gy3",
+          "type": "ConnectionList",
+          "items": [
+            {
+              "type": "WixCodeConnectionItem",
+              "role": "button4"
+            }
+          ],
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          }
+        },
         "connection-jz9tlsw5": {
           "type": "ConnectionList",
           "id": "connection-jz9tlsw5",
@@ -598,6 +663,17 @@
         },
         "propItem-k2a5yx7l": {
           "id": "propItem-k2a5yx7l",
+          "type": "ButtonProperties",
+          "metaData": {
+            "isPreset": false,
+            "schemaVersion": "1.0",
+            "isHidden": false
+          },
+          "align": "center",
+          "margin": 0
+        },
+        "propItem-k2a62gxl": {
+          "id": "propItem-k2a62gxl",
           "type": "ButtonProperties",
           "metaData": {
             "isPreset": false,

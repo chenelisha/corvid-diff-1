@@ -1,0 +1,40 @@
+{
+  "content": {
+    "padding1": "0 0 0 0",
+    "padding2": "0.0em 0.5em 0.0em 0.5em",
+    "padding3": "1.0em 0.0em 1.0em 0.0em",
+    "bulletSize": "1.5",
+    "componentSpacing": "0.45em",
+    "mobileBg": "none 0px 0px center top cover no-repeat no-repeat fixed {color_11}",
+    "BASE_THEME_DIRECTORY": "base",
+    "iconSpacing": "0.75em",
+    "themePresets": {
+      "mobileBg": true
+    },
+    "WEB_THEME_DIRECTORY": "viewer",
+    "border": [
+      "0.15em solid [color_1]",
+      "0.25em solid [color_2]",
+      "0.35em solid [color_3]"
+    ],
+    "siteBg": "none 0px 0px center top cover no-repeat no-repeat fixed {color_11}",
+    "thumbSpacing": "0.23em",
+    "CONTACT_DIRECTORY": "photography/contact",
+    "metaData": {
+      "isPreset": true,
+      "schemaVersion": "1.0",
+      "isHidden": false
+    },
+    "itemSpacing": "0.75em",
+    "PAGES_DIRECTORY": "photography/pages",
+    "EXTERNAL_LINKS_DIRECTORY": "photography/external",
+    "NETWORKS_DIRECTORY": "photography/network",
+    "BG_DIRECTORY": "photography",
+    "headerSpacing": "2.25em",
+    "THEME_DIRECTORY": "photography",
+    "iconSize": "3.2",
+    "type": "WFlatTheme",
+    "id": "THEME_DATA"
+  },
+  "documentSchemaVersion": "1.0"
+}

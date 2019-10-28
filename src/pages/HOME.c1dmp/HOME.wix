@@ -1,0 +1,94 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "height": 500,
+          "x": 0,
+          "y": 0,
+          "scale": 1,
+          "rotationInDegrees": 0,
+          "fixedPosition": false
+        },
+        "connectionQuery": "connection-k290y3ef",
+        "styleId": "p1",
+        "behaviorQuery": "behavior-jg9pfpzt",
+        "components": [],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [],
+        "type": "Page",
+        "id": "c1dmp",
+        "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin",
+        "dataQuery": "#c1dmp",
+        "mobileHintsQuery": "mobileHints-j8u779np"
+      },
+      "data": {
+        "document_data": [],
+        "design_data": [],
+        "behaviors_data": [
+          {
+            "type": "ObsoleteBehaviorsList",
+            "id": "behavior-jg9pfpzt",
+            "items": "[]"
+          }
+        ],
+        "connections_data": [
+          {
+            "type": "ConnectionList",
+            "id": "connection-k290y3ef",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ]
+          }
+        ],
+        "theme_data": [],
+        "component_properties": [],
+        "mobile_hints": [
+          {
+            "type": "MobileHints",
+            "id": "mobileHints-j8u779np",
+            "hidden": false
+          }
+        ]
+      },
+      "title": "HOME",
+      "pageUriSEO": "home",
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "bmi23nr": {
+            "type": "BasicMenuItem",
+            "id": "bmi23nr",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "label": "HOME",
+            "isVisible": true,
+            "isVisibleMobile": true,
+            "link": "#1fti"
+          },
+          "1fti": {
+            "type": "PageLink",
+            "id": "1fti",
+            "metaData": {
+              "isPreset": true,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "pageId": "#c1dmp"
+          }
+        }
+      }
+    },
+    "pageUriSeo": "home",
+    "title": "HOME",
+    "isPopup": false,
+    "pageId": "c1dmp"
+  },
+  "documentSchemaVersion": "1.0"
+}

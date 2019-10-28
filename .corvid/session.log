@@ -1,0 +1,7 @@
+{"message":"Using corvid-cli without code completion","level":"info","timestamp":"2019-10-28T08:21:21.580Z"}
+{"message":"Server starting at /Users/chene/Projects/corvid-site-diff","level":"info","timestamp":"2019-10-28T08:21:22.116Z"}
+{"message":"Watching for file changes at [src]","level":"verbose","timestamp":"2019-10-28T08:21:22.120Z"}
+{"message":"Server listening at editor port [5000], admin port [3000]","level":"info","timestamp":"2019-10-28T08:21:22.180Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2019-10-28T08:21:22.194Z"}
+{"message":"Socket event GET_STATUS received","level":"info","timestamp":"2019-10-28T08:21:22.217Z"}
+{"message":"opening editor for [https://www.wix.com/editor/6d71788f-07ad-4adf-b13d-1b15bb1908fd?petri_ovr=specs.ExcludeSiteFromSsr=true&corvidSessionId=5f7b6a9a-e1f1-46f7-8af6-3faa365330bb&localServerPort=5000&x-wix-bi-context=eyJidWlsZGVyRW52IjoibG9jYWwiLCJpc0hlYWRsZXNzIjpmYWxzZX0=&ReactSource=https://localhost]","level":"info","timestamp":"2019-10-28T08:21:22.220Z"}

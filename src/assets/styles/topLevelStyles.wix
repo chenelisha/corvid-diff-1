@@ -1,0 +1,3157 @@
+{
+  "content": {
+    "twt1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "twt1",
+      "skin": "skins.core.TwitterTweetSkin"
+    },
+    "pagg1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-txt": "1",
+          "bgh": "color_12",
+          "bg": "color_11",
+          "fntt": "font_6",
+          "linkColor": "color_15",
+          "txt": "color_15",
+          "alpha-bg": "0.8",
+          "alpha-bgh": "1",
+          "alpha-linkColor": "1",
+          "fntds": "font_8"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "bgh": "theme",
+          "fntds": "theme",
+          "fntt": "theme",
+          "linkColor": "theme",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "pagg1",
+      "skin": "wysiwyg.viewer.skins.paginatedgrid.PaginatedGridOverlay"
+    },
+    "SingleAudioPlayer_1": {
+      "componentClassName": "wysiwyg.common.components.singleaudioplayer.viewer.SingleAudioPlayer",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "audioText": "color_11",
+          "audioIcons": "color_11",
+          "bg": "color_18",
+          "alpha-brd": "1",
+          "fnts": "font_10",
+          "brw": "0",
+          "fnt": "font_9",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "rd": "0",
+          "vol": "color_11",
+          "brd": "color_15",
+          "prog": "color_11"
+        },
+        "propertiesSource": {
+          "alpha-brd": "value",
+          "audioIcons": "theme",
+          "bg": "theme",
+          "prog": "theme",
+          "vol": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "SingleAudioPlayer_1",
+      "skin": "wysiwyg.common.components.singleaudioplayer.viewer.skins.SingleAudioPlayerSkin"
+    },
+    "p1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "p1",
+      "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin"
+    },
+    "fbl1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "fbl1",
+      "skin": "skins.core.FacebookLikeSkin"
+    },
+    "txt1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "f10": "font_10",
+          "f0": "font_0",
+          "f1": "font_1",
+          "f2": "font_2",
+          "f3": "font_3",
+          "f4": "font_4",
+          "f5": "font_5",
+          "f6": "font_6",
+          "f7": "font_7",
+          "f8": "font_8",
+          "f9": "font_9"
+        },
+        "propertiesSource": {
+          "f10": "theme",
+          "f0": "theme",
+          "f1": "theme",
+          "f2": "theme",
+          "f3": "theme",
+          "f4": "theme",
+          "f5": "theme",
+          "f6": "theme",
+          "f7": "theme",
+          "f8": "theme",
+          "f9": "theme"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "txt1",
+      "skin": "wysiwyg.viewer.skins.WRichTextSkin"
+    },
+    "pagg2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "0.8",
+          "alpha-linkColor": "1",
+          "alpha-txt": "1",
+          "bg": "color_11",
+          "fntds": "font_8",
+          "fntt": "font_6",
+          "linkColor": "color_15",
+          "txt": "color_15"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "fntds": "theme",
+          "fntt": "theme",
+          "linkColor": "theme",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "pagg2",
+      "skin": "wysiwyg.viewer.skins.paginatedgrid.PaginatedGridArrowsOutside"
+    },
+    "sc1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bg": "color_15",
+          "alpha-brd": "1",
+          "alpha-bgctr": "1",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)",
+          "brd": "color_14",
+          "alpha-bg": "1",
+          "brwb": "0px",
+          "bgctr": "color_15"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "sc1",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "p2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "bg": "color_11"
+        },
+        "propertiesSource": {
+          "bg": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "p2",
+      "skin": "wysiwyg.viewer.skins.page.BasicPageSkin"
+    },
+    "bgis1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "alpha-brd": "1",
+          "bg": "color_12",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "color_15",
+          "brwb": "0px",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brwb": "value",
+          "brwt": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "bgis1",
+      "skin": "skins.viewer.bgimagestrip.BgImageStripSkin"
+    },
+    "ap1": {
+      "componentClassName": "wysiwyg.viewer.components.AudioPlayer",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bgh": "color_17",
+          "bg": "color_18",
+          "brw": "0",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "iconh": "color_11",
+          "rd": "0",
+          "brdh": "color_15",
+          "brd": "color_15",
+          "icon": "color_11"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "bgh": "theme",
+          "icon": "theme",
+          "iconh": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ap1",
+      "skin": "wysiwyg.viewer.skins.audioplayer.SimplePlayer"
+    },
+    "tpas0": {
+      "componentClassName": "wysiwyg.viewer.components.tpapps.TPASection",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "tpas0",
+      "skin": "wysiwyg.viewer.skins.TPASectionSkin"
+    },
+    "blog_4656a63c-b316-4315-ab16-e2003f5935ca_1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "rd": "7px"
+        },
+        "propertiesSource": {
+          "rd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "blog_4656a63c-b316-4315-ab16-e2003f5935ca_1",
+      "skin": "wysiwyg.viewer.skins.AppPartSkin"
+    },
+    "style-jz9vc9ps": {
+      "componentClassName": "wysiwyg.viewer.components.InlinePopupToggle",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bordercolorOpen": "color_15",
+          "bg": "color_11",
+          "boxShadowToggleOn-shdOpen": "false",
+          "bgOpen": "color_11",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "lineColor": "color_15",
+          "alpha-bg": "0",
+          "bordercolor": "color_15",
+          "lineColorOpen": "color_15",
+          "shdOpen": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "alpha-bgOpen": "0"
+        },
+        "propertiesSource": {
+          "boxShadowToggleOn-shd": "value",
+          "bordercolorOpen": "theme",
+          "bg": "theme",
+          "boxShadowToggleOn-shdOpen": "value",
+          "bgOpen": "theme",
+          "shd": "value",
+          "lineColor": "theme",
+          "alpha-bg": "value",
+          "bordercolor": "theme",
+          "lineColorOpen": "theme",
+          "shdOpen": "value",
+          "alpha-bgOpen": "value"
+        },
+        "groups": {}
+      },
+      "type": "ComponentStyle",
+      "id": "style-jz9vc9ps",
+      "skin": "wysiwyg.viewer.skins.inlinePopupToggle.inlinePopupToggleSkin4"
+    },
+    "pagg3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-txt": "1",
+          "bg": "color_12",
+          "fntt": "font_6",
+          "linkColor": "color_15",
+          "bg1": "color_13",
+          "txt": "color_15",
+          "alpha-bg": "0.6",
+          "alpha-linkColor": "1",
+          "fntds": "font_8",
+          "alpha-bg1": "1"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "bg1": "theme",
+          "fntds": "theme",
+          "fntt": "theme",
+          "linkColor": "theme",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "pagg3",
+      "skin": "wysiwyg.viewer.skins.paginatedgrid.PaginatedGridRibbonArrows"
+    },
+    "sc2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "true",
+          "bg": "color_11",
+          "alpha-brd": "1",
+          "alpha-bgctr": "1",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)",
+          "brd": "color_14",
+          "alpha-bg": "1",
+          "brwb": "0px",
+          "bgctr": "color_11"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "sc2",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "p3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "bg": "color_16"
+        },
+        "propertiesSource": {
+          "bg": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "p3",
+      "skin": "wysiwyg.viewer.skins.page.BasicPageSkin"
+    },
+    "bgis2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "alpha-brd": "1",
+          "bg": "color_13",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "color_15",
+          "brwb": "0px",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brwb": "value",
+          "brwt": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "bgis2",
+      "skin": "skins.viewer.bgimagestrip.BgImageStripSkin"
+    },
+    "ap2": {
+      "componentClassName": "wysiwyg.viewer.components.AudioPlayer",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "shd1": "inset 0 1px 4px 1px rgba(0, 0, 0, 0.2)",
+          "bgh": "color_17",
+          "bg": "color_18",
+          "brw": "0",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "iconh": "color_11",
+          "rd": "0",
+          "brdh": "color_15",
+          "brd": "color_15",
+          "icon": "color_11"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "bgh": "theme",
+          "icon": "theme",
+          "iconh": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ap2",
+      "skin": "wysiwyg.viewer.skins.audioplayer.ShinyPlayer"
+    },
+    "sc3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "alpha-brd": "1",
+          "bg": "color_10",
+          "brd": "color_14",
+          "brwb": "0px",
+          "brwt": "0px"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "sc3",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.BevelScreen"
+    },
+    "bgis3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "alpha-brd": "1",
+          "bg": "color_14",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "color_15",
+          "brwb": "0px",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brwb": "value",
+          "brwt": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "bgis3",
+      "skin": "skins.viewer.bgimagestrip.BgImageStripSkin"
+    },
+    "ddm1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "txts": "color_18",
+          "alpha-bgDrop": "1",
+          "alpha-txth": "1",
+          "fnt": "normal normal normal 16px/1.4em proxima-n-w01-reg",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "txt": "color_15",
+          "rd": "0px",
+          "alpha-txts": "1",
+          "pad": "5px",
+          "bgDrop": "color_11",
+          "txth": "color_18"
+        },
+        "propertiesSource": {
+          "bgDrop": "theme",
+          "fnt": "value",
+          "pad": "value",
+          "rd": "value",
+          "shd": "value",
+          "txt": "theme",
+          "txth": "theme",
+          "txts": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ddm1",
+      "skin": "wysiwyg.common.components.dropdownmenu.viewer.skins.TextOnlyMenuButtonSkin"
+    },
+    "sc4": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bg": "color_10",
+          "alpha-brd": "1",
+          "alpha-bgctr": "1",
+          "brwt": "2px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)",
+          "brd": "color_12",
+          "alpha-bg": "1",
+          "brwb": "2px",
+          "bgctr": "color_10"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "sc4",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "bgis4": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "alpha-brd": "1",
+          "bg": "color_15",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "color_15",
+          "brwb": "0px",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brwb": "value",
+          "brwt": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "bgis4",
+      "skin": "skins.viewer.bgimagestrip.BgImageStripSkin"
+    },
+    "ddm2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "rdDrop": "0px",
+          "alpha-txt": "1",
+          "txts": "color_11",
+          "alpha-bgDrop": "1",
+          "bgh": "color_18",
+          "bg": "color_11",
+          "alpha-brd": "1",
+          "brw": "0px",
+          "alpha-txth": "1",
+          "fnt": "normal normal normal 16px/1.4em proxima-n-w01-reg",
+          "bgs": "color_18",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "alpha-sep": "1",
+          "txt": "color_15",
+          "rd": "0px",
+          "alpha-txts": "1",
+          "pad": "5px",
+          "bgDrop": "color_11",
+          "brd": "color_11",
+          "alpha-bg": "1",
+          "alpha-bgh": "1",
+          "txth": "color_11",
+          "sep": "color_15",
+          "alpha-bgs": "1"
+        },
+        "propertiesSource": {
+          "rdDrop": "value",
+          "txts": "theme",
+          "bgh": "theme",
+          "bg": "theme",
+          "brw": "value",
+          "fnt": "value",
+          "bgs": "theme",
+          "shd": "value",
+          "txt": "theme",
+          "rd": "value",
+          "pad": "value",
+          "bgDrop": "theme",
+          "brd": "theme",
+          "alpha-bg": "value",
+          "txth": "theme",
+          "sep": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ddm2",
+      "skin": "wysiwyg.common.components.dropdownmenu.viewer.skins.SolidColorMenuButtonSkin"
+    },
+    "ddm3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "txts": "color_18",
+          "alpha-bgDrop": "1",
+          "alpha-brdh": "1",
+          "alpha-brd": "1",
+          "fnt": "normal normal normal 16px/1.4em proxima-n-w01-reg",
+          "alpha-brds": "1",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "txt": "color_15",
+          "rd": "0px",
+          "pad": "5px",
+          "bgDrop": "color_11",
+          "brdh": "color_18",
+          "brd": "color_15",
+          "menuTotalBordersX": "0",
+          "txth": "color_18",
+          "brds": "color_18"
+        },
+        "propertiesSource": {
+          "boxShadowToggleOn-shd": "value",
+          "txts": "theme",
+          "alpha-bgDrop": "value",
+          "alpha-brdh": "value",
+          "alpha-brd": "value",
+          "fnt": "value",
+          "alpha-brds": "value",
+          "shd": "value",
+          "txt": "theme",
+          "rd": "value",
+          "pad": "value",
+          "bgDrop": "theme",
+          "brdh": "theme",
+          "brd": "theme",
+          "menuTotalBordersX": "value",
+          "txth": "theme",
+          "brds": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ddm3",
+      "skin": "wysiwyg.common.components.dropdownmenu.viewer.skins.OverlineMenuButtonSkin"
+    },
+    "blog_33a9f5e0-b083-4ccc-b55d-3ca5d241a6eb_1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "rd": "7px"
+        },
+        "propertiesSource": {
+          "rd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "blog_33a9f5e0-b083-4ccc-b55d-3ca5d241a6eb_1",
+      "skin": "wysiwyg.viewer.skins.AppPartSkin"
+    },
+    "style-jz9tlsvs1": {
+      "componentClassName": "wysiwyg.viewer.components.MenuContainer",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "0.6",
+          "bg": "color_15"
+        },
+        "propertiesSource": {
+          "alpha-bg": "value",
+          "bg": "theme"
+        },
+        "groups": {}
+      },
+      "type": "ComponentStyle",
+      "id": "style-jz9tlsvs1",
+      "skin": "wysiwyg.viewer.skins.inlinePopup.DefaultInlinePopup"
+    },
+    "blog_e000b4bf-9ff1-4e66-a0d3-d4b365ba3af5_1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "rd": "7px"
+        },
+        "propertiesSource": {
+          "rd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "blog_e000b4bf-9ff1-4e66-a0d3-d4b365ba3af5_1",
+      "skin": "wysiwyg.viewer.skins.AppPartSkin"
+    },
+    "gp1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "gp1",
+      "skin": "skins.core.GooglePlusOneSkin"
+    },
+    "tmFull1": {
+      "type": "TopLevelStyle",
+      "id": "tmFull1",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "txts": "color_18",
+          "alpha-bgDrop": "1",
+          "alpha-borderColorSelected": "1",
+          "bg": "color_14",
+          "iconcolorSelected": "color_15",
+          "alpha-bordercolor": "1",
+          "iconcolor": "color_15",
+          "separatorHeight": "1px",
+          "fnt": "normal normal normal 16px/1.4em proxima-n-w01-reg",
+          "alpha-separatorColor": "0.5",
+          "strokewidth": "3",
+          "bgOpen": "color_14",
+          "separatorWidthFull": "160",
+          "txt": "color_15",
+          "rd": "4px",
+          "borderColorSelected": "color_11",
+          "linewidth": "20px",
+          "bgDrop": "color_12",
+          "alpha-bg": "0",
+          "borderWidthSelected": "0px",
+          "alpha-iconcolorSelected": "1",
+          "textAlignment": "center",
+          "bordercolor": "color_11",
+          "borderwidth": "0",
+          "alpha-iconcolor": "1",
+          "alpha-bgOpen": "0",
+          "separatorColor": "color_15"
+        },
+        "propertiesSource": {
+          "txts": "theme",
+          "alpha-bgDrop": "value",
+          "alpha-borderColorSelected": "value",
+          "bg": "theme",
+          "iconcolorSelected": "theme",
+          "alpha-bordercolor": "value",
+          "iconcolor": "theme",
+          "separatorHeight": "value",
+          "fnt": "value",
+          "alpha-separatorColor": "value",
+          "strokewidth": "value",
+          "bgOpen": "value",
+          "separatorWidthFull": "value",
+          "txt": "theme",
+          "rd": "value",
+          "borderColorSelected": "theme",
+          "linewidth": "value",
+          "bgDrop": "theme",
+          "alpha-bg": "value",
+          "borderWidthSelected": "value",
+          "alpha-iconcolorSelected": "value",
+          "textAlignment": "value",
+          "bordercolor": "theme",
+          "borderwidth": "value",
+          "alpha-iconcolor": "value",
+          "alpha-bgOpen": "value",
+          "separatorColor": "theme"
+        },
+        "groups": {}
+      },
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "skin": "wysiwyg.viewer.skins.mobile.TinyMenuFullScreenSkin"
+    },
+    "inlinePopupToggleSkin16": {
+      "type": "TopLevelStyle",
+      "id": "inlinePopupToggleSkin16",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bordercolorOpen": "color_15",
+          "bg": "color_11",
+          "boxShadowToggleOn-shdOpen": "false",
+          "bgOpen": "color_11",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "lineColor": "color_15",
+          "alpha-bg": "0",
+          "bordercolor": "color_15",
+          "lineColorOpen": "color_15",
+          "shdOpen": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "alpha-bgOpen": "0"
+        },
+        "propertiesSource": {
+          "boxShadowToggleOn-shd": "value",
+          "bordercolorOpen": "theme",
+          "bg": "theme",
+          "boxShadowToggleOn-shdOpen": "value",
+          "bgOpen": "theme",
+          "shd": "value",
+          "lineColor": "theme",
+          "alpha-bg": "value",
+          "bordercolor": "theme",
+          "lineColorOpen": "theme",
+          "shdOpen": "value",
+          "alpha-bgOpen": "value"
+        },
+        "groups": {}
+      },
+      "skin": "wysiwyg.viewer.skins.inlinePopupToggle.inlinePopupToggleSkin4"
+    },
+    "style-jz9vahle": {
+      "componentClassName": "wysiwyg.viewer.components.ExpandableMenu",
+      "pageId": "",
+      "compId": "",
+      "styleType": "custom",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-bgsSub": "0",
+          "alpha-SKINS_bgSubmenu": "0",
+          "txts": "color_18",
+          "bgh": "#E6EAF5",
+          "SKINS_submenuMargin": "0",
+          "menuSpacing": "10",
+          "subMenuSpacing": "25",
+          "bg": "color_11",
+          "alpha-brd": "0.2",
+          "SKINS_submenuBR": "90px",
+          "brw": "0px 0px 0px 0px",
+          "txtexpanded": "color_15",
+          "separatorHeight": "15",
+          "fnt": "font_7",
+          "alpha-bgexpanded": "0",
+          "bgs": "color_11",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "txt": "color_15",
+          "rd": "90px",
+          "bgsSub": "color_11",
+          "fntSubMenu": "font_7",
+          "brd": "color_15",
+          "alpha-bg": "0",
+          "alpha-bgh": "1",
+          "textSpacing": "0",
+          "sepw": "1",
+          "arrowColor": "color_15",
+          "SKINS_fntSubmenu": "normal normal normal 16px/1.4em din-next-w01-light {color_14}",
+          "txtsSub": "color_18",
+          "bgexpanded": "color_11",
+          "alpha-bgs": "0"
+        },
+        "propertiesSource": {
+          "boxShadowToggleOn-shd": "value",
+          "alpha-bgsSub": "value",
+          "alpha-SKINS_bgSubmenu": "value",
+          "txts": "theme",
+          "bgh": "value",
+          "SKINS_submenuMargin": "value",
+          "menuSpacing": "value",
+          "subMenuSpacing": "value",
+          "bg": "theme",
+          "alpha-brd": "value",
+          "SKINS_submenuBR": "value",
+          "brw": "value",
+          "txtexpanded": "theme",
+          "separatorHeight": "value",
+          "fnt": "theme",
+          "alpha-bgexpanded": "value",
+          "bgs": "theme",
+          "shd": "value",
+          "txt": "theme",
+          "rd": "value",
+          "bgsSub": "theme",
+          "fntSubMenu": "theme",
+          "brd": "theme",
+          "alpha-bg": "value",
+          "alpha-bgh": "value",
+          "textSpacing": "value",
+          "sepw": "value",
+          "arrowColor": "theme",
+          "SKINS_fntSubmenu": "value",
+          "txtsSub": "theme",
+          "bgexpanded": "theme",
+          "alpha-bgs": "value"
+        },
+        "groups": {}
+      },
+      "type": "ComponentStyle",
+      "id": "style-jz9vahle",
+      "skin": "wysiwyg.viewer.skins.ExpandableMenuSkin"
+    },
+    "tmFull2": {
+      "type": "TopLevelStyle",
+      "id": "tmFull2",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "txts": "color_18",
+          "alpha-bgDrop": "1",
+          "alpha-borderColorSelected": "1",
+          "bg": "color_14",
+          "iconcolorSelected": "color_15",
+          "alpha-bordercolor": "1",
+          "iconcolor": "color_15",
+          "separatorHeight": "1px",
+          "fnt": "normal normal normal 16px/1.4em proxima-n-w01-reg",
+          "alpha-separatorColor": "0.5",
+          "strokewidth": "3",
+          "bgOpen": "color_14",
+          "separatorWidthFull": "160",
+          "txt": "color_15",
+          "rd": "4px",
+          "borderColorSelected": "color_11",
+          "linewidth": "20px",
+          "bgDrop": "color_12",
+          "alpha-bg": "0",
+          "borderWidthSelected": "0px",
+          "alpha-iconcolorSelected": "1",
+          "textAlignment": "center",
+          "bordercolor": "color_11",
+          "borderwidth": "0",
+          "alpha-iconcolor": "1",
+          "alpha-bgOpen": "0",
+          "separatorColor": "color_15"
+        },
+        "propertiesSource": {
+          "txts": "theme",
+          "alpha-bgDrop": "value",
+          "alpha-borderColorSelected": "value",
+          "bg": "theme",
+          "iconcolorSelected": "theme",
+          "alpha-bordercolor": "value",
+          "iconcolor": "theme",
+          "separatorHeight": "value",
+          "fnt": "value",
+          "alpha-separatorColor": "value",
+          "strokewidth": "value",
+          "bgOpen": "value",
+          "separatorWidthFull": "value",
+          "txt": "theme",
+          "rd": "value",
+          "borderColorSelected": "theme",
+          "linewidth": "value",
+          "bgDrop": "theme",
+          "alpha-bg": "value",
+          "borderWidthSelected": "value",
+          "alpha-iconcolorSelected": "value",
+          "textAlignment": "value",
+          "bordercolor": "theme",
+          "borderwidth": "value",
+          "alpha-iconcolor": "value",
+          "alpha-bgOpen": "value",
+          "separatorColor": "theme"
+        },
+        "groups": {}
+      },
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "skin": "wysiwyg.viewer.skins.mobile.TinyMenuFullScreenSkin"
+    },
+    "scw1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "scw1",
+      "skin": "wysiwyg.viewer.skins.SoundCloudWidgetSkin"
+    },
+    "fbc1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "fbc1",
+      "skin": "skins.core.FacebookCommentSkin"
+    },
+    "ssg1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bg": "color_11",
+          "alpha-brd": "1",
+          "brw": "5px",
+          "fntt": "font_6",
+          "shd": "0 1px 3px rgba(0, 0, 0, 0.5);",
+          "txt": "color_15",
+          "rd": "0px",
+          "brd": "color_13",
+          "alpha-bg": "0.7",
+          "fntds": "font_8"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brw": "value",
+          "fntds": "theme",
+          "fntt": "theme",
+          "rd": "value",
+          "shd": "value",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ssg1",
+      "skin": "wysiwyg.viewer.skins.gallery.SlideShowTextOverlay"
+    },
+    "gm1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "gm1",
+      "skin": "wysiwyg.viewer.skins.GoogleMapSkin"
+    },
+    "ssg2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bg": "color_11",
+          "alpha-brd": "1",
+          "brw": "0px",
+          "fntt": "font_6",
+          "shd": "0px 1px 3px 0px rgba(0,0,0,0.5)",
+          "txt": "color_14",
+          "rd": "0px",
+          "brd": "color_11",
+          "alpha-bg": "0.8",
+          "fntds": "font_8"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brw": "value",
+          "fntds": "theme",
+          "fntt": "theme",
+          "rd": "value",
+          "shd": "value",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ssg2",
+      "skin": "wysiwyg.viewer.skins.gallery.SlideShowTextOverlay"
+    },
+    "fk1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-backgroundColor": "0",
+          "alpha-borderColor": "0",
+          "backgroundColor": "color_6",
+          "borderColor": "color_1",
+          "brightness-backgroundColor": "0",
+          "brightness-borderColor": "0",
+          "saturation-backgroundColor": "0",
+          "saturation-borderColor": "0"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "fk1",
+      "skin": "wysiwyg.viewer.skins.FlickrBadgeWidgetSkin"
+    },
+    "ssg3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bg": "color_12",
+          "brw": "5px",
+          "fntt": "font_6",
+          "shd": "0px 1px 3px 0px rgba(0,0,0,0.5)",
+          "txt": "color_15",
+          "rd": "0px",
+          "alpha-bg": "1",
+          "fntds": "font_8"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brw": "value",
+          "fntds": "theme",
+          "fntt": "theme",
+          "rd": "value",
+          "shd": "value",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ssg3",
+      "skin": "wysiwyg.viewer.skins.gallery.SlideShowPolaroid"
+    },
+    "hl1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "brd": "color_13",
+          "lnw": "1px"
+        },
+        "propertiesSource": {
+          "brd": "theme",
+          "lnw": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "hl1",
+      "skin": "wysiwyg.viewer.skins.line.SolidLine"
+    },
+    "cf1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "txt1": "color_15",
+          "alpha-txtSuccess": "1",
+          "txt2": "color_11",
+          "alpha-brd": "1",
+          "fnt2": "font_8",
+          "alpha-txtError": "1",
+          "brw": "1px",
+          "alpha-labelTxt": "1",
+          "bg1": "color_11",
+          "fnt": "font_8",
+          "bg2": "color_18",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "alpha-txt1": "1",
+          "alpha-txt2": "1",
+          "rd": "0px",
+          "txtSuccess": "rgba(186,218,85,1)",
+          "brd": "color_15",
+          "txtError": "rgba(139,0,0,1)",
+          "labelTxt": "color_15",
+          "alpha-bg1": "1",
+          "alpha-bg2": "1"
+        },
+        "propertiesSource": {
+          "txt1": "theme",
+          "txt2": "theme",
+          "fnt2": "theme",
+          "brw": "value",
+          "bg1": "theme",
+          "fnt": "theme",
+          "bg2": "theme",
+          "shd": "value",
+          "rd": "value",
+          "txtSuccess": "value",
+          "brd": "theme",
+          "txtError": "value",
+          "labelTxt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "cf1",
+      "skin": "wysiwyg.viewer.skins.contactform.DefaultContactForm"
+    },
+    "c1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "alpha-brd": "1",
+          "bg": "color_11",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "color_15",
+          "brw": "0",
+          "rd": "0px",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brw": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "c1",
+      "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+    },
+    "twf1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "saturation-bg": "0",
+          "brightness-bg": "0",
+          "txt1": "color_8",
+          "txt2": "color_8",
+          "bg": "color_4",
+          "linkColor": "color_8",
+          "bg2": "color_4",
+          "brightness-linkColor": "0",
+          "saturation-linkColor": "0",
+          "alpha-txt1": "1",
+          "brightness-bg2": "0",
+          "alpha-txt2": "1",
+          "saturation-bg2": "0",
+          "alpha-bg": "1",
+          "alpha-linkColor": "1",
+          "saturation-txt1": "0",
+          "saturation-txt2": "0",
+          "brightness-txt1": "0",
+          "alpha-bg2": "1",
+          "brightness-txt2": "0"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "twf1",
+      "skin": "wysiwyg.viewer.skins.TwitterFeedSkin"
+    },
+    "hl2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "brd": "color_14",
+          "lnw": "1px"
+        },
+        "propertiesSource": {
+          "brd": "theme",
+          "lnw": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "hl2",
+      "skin": "wysiwyg.viewer.skins.line.SolidLine"
+    },
+    "b1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bgh": "color_17",
+          "alpha-brdh": "0",
+          "bg": "color_18",
+          "alpha-brd": "1",
+          "brw": "0",
+          "alpha-txth": "1",
+          "fnt": "font_8",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "txt": "color_8",
+          "rd": "0px",
+          "brdh": "color_12",
+          "brd": "color_14",
+          "alpha-bg": "1",
+          "alpha-bgh": "1",
+          "txth": "color_11"
+        },
+        "propertiesSource": {
+          "bgh": "theme",
+          "alpha-brdh": "value",
+          "bg": "theme",
+          "brw": "value",
+          "fnt": "theme",
+          "shd": "value",
+          "txt": "theme",
+          "rd": "value",
+          "brdh": "theme",
+          "brd": "theme",
+          "txth": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "b1",
+      "skin": "wysiwyg.viewer.skins.button.BasicButton"
+    },
+    "cf2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "txt1": "color_15",
+          "alpha-txtSuccess": "1",
+          "txt2": "color_11",
+          "alpha-brd": "1",
+          "fnt2": "font_7",
+          "alpha-txtError": "1",
+          "brw": "1px",
+          "alpha-labelTxt": "1",
+          "bg1": "color_11",
+          "fnt": "font_7",
+          "bg2": "color_18",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "alpha-txt1": "1",
+          "alpha-txt2": "1",
+          "rd": "0px",
+          "txtSuccess": "rgba(186,218,85,1)",
+          "brd": "color_15",
+          "txtError": "rgba(139,0,0,1)",
+          "labelTxt": "color_15",
+          "alpha-bg1": "1",
+          "alpha-bg2": "1"
+        },
+        "propertiesSource": {
+          "txt1": "theme",
+          "txt2": "theme",
+          "fnt2": "theme",
+          "brw": "value",
+          "bg1": "theme",
+          "fnt": "theme",
+          "bg2": "theme",
+          "shd": "value",
+          "rd": "value",
+          "txtSuccess": "value",
+          "brd": "theme",
+          "txtError": "value",
+          "labelTxt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "cf2",
+      "skin": "wysiwyg.viewer.skins.contactform.BasicContactFormSkin"
+    },
+    "c2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "alpha-brd": "1",
+          "bg": "color_15",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "color_14",
+          "brw": "0px",
+          "rd": "0px",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brw": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "c2",
+      "skin": "wysiwyg.viewer.skins.area.DefaultAreaSkin"
+    },
+    "hl3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "brd": "color_15",
+          "lnw": "3"
+        },
+        "propertiesSource": {
+          "brd": "theme",
+          "lnw": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "hl3",
+      "skin": "wysiwyg.viewer.skins.line.SolidLine"
+    },
+    "b2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-txt": "1",
+          "alpha-txth": "1",
+          "fnt": "font_8",
+          "txt": "color_15",
+          "txth": "color_14"
+        },
+        "propertiesSource": {
+          "fnt": "theme",
+          "txt": "theme",
+          "txth": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "b2",
+      "skin": "wysiwyg.viewer.skins.button.TextOnlyButtonSkin"
+    },
+    "c3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "bg": "color_18"
+        },
+        "propertiesSource": {
+          "bg": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "c3",
+      "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+    },
+    "txtNew": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "f10": "font_10",
+          "f0": "font_0",
+          "f1": "font_1",
+          "f2": "font_2",
+          "f3": "font_3",
+          "f4": "font_4",
+          "f5": "font_5",
+          "f6": "font_6",
+          "f7": "font_7",
+          "f8": "font_8",
+          "f9": "font_9"
+        },
+        "propertiesSource": {
+          "f10": "theme",
+          "f0": "theme",
+          "f1": "theme",
+          "f2": "theme",
+          "f3": "theme",
+          "f4": "theme",
+          "f5": "theme",
+          "f6": "theme",
+          "f7": "theme",
+          "f8": "theme",
+          "f9": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "txtNew",
+      "skin": "wysiwyg.viewer.skins.WRichTextNewSkin"
+    },
+    "hl4": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "hl4",
+      "skin": "wysiwyg.viewer.skins.line.NotchDashedLine"
+    },
+    "inlinePopupToggleSkin4": {
+      "type": "TopLevelStyle",
+      "id": "inlinePopupToggleSkin4",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bordercolorOpen": "color_11",
+          "borderwidthOpen": "0",
+          "bg": "color_11",
+          "alpha-bordercolor": "0",
+          "boxShadowToggleOn-shdOpen": "false",
+          "bgOpen": "color_11",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "lineColor": "color_15",
+          "rd": "0",
+          "alpha-bordercolorOpen": "0",
+          "alpha-bg": "0",
+          "bordercolor": "color_11",
+          "lineColorOpen": "color_15",
+          "shdOpen": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "borderwidth": "0",
+          "rdOpen": "0",
+          "alpha-bgOpen": "0"
+        },
+        "propertiesSource": {
+          "boxShadowToggleOn-shd": "value",
+          "bordercolorOpen": "theme",
+          "borderwidthOpen": "value",
+          "bg": "theme",
+          "alpha-bordercolor": "value",
+          "boxShadowToggleOn-shdOpen": "value",
+          "bgOpen": "theme",
+          "shd": "value",
+          "lineColor": "theme",
+          "rd": "value",
+          "alpha-bordercolorOpen": "value",
+          "alpha-bg": "value",
+          "bordercolor": "theme",
+          "lineColorOpen": "theme",
+          "shdOpen": "value",
+          "borderwidth": "value",
+          "rdOpen": "value",
+          "alpha-bgOpen": "value"
+        },
+        "groups": {}
+      },
+      "skin": "wysiwyg.viewer.skins.inlinePopupToggle.inlinePopupToggleSkin2"
+    },
+    "b3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bgh": "color_17",
+          "alpha-brdh": "1",
+          "bg": "color_18",
+          "alpha-brd": "1",
+          "brw": "0",
+          "alpha-txth": "1",
+          "fnt": "font_8",
+          "shd": "0px 1px 4px 0px rgba(0,0,0,0.6)",
+          "txt": "color_11",
+          "rd": "0px",
+          "brdh": "color_14",
+          "brd": "color_12",
+          "alpha-bg": "1",
+          "alpha-bgh": "1",
+          "txth": "color_11"
+        },
+        "propertiesSource": {
+          "bgh": "theme",
+          "bg": "theme",
+          "brw": "value",
+          "fnt": "theme",
+          "shd": "value",
+          "txt": "theme",
+          "rd": "value",
+          "brdh": "theme",
+          "brd": "theme",
+          "txth": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "b3",
+      "skin": "wysiwyg.viewer.skins.button.ShinyButtonISkin"
+    },
+    "c4": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-bg": "1",
+          "bg": "color_28"
+        },
+        "propertiesSource": {
+          "bg": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "c4",
+      "skin": "wysiwyg.viewer.skins.area.RectangleArea"
+    },
+    "b4": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-txt": "1",
+          "bgh": "color_17",
+          "alpha-brdh": "1",
+          "bg": "color_18",
+          "alpha-brd": "1",
+          "brw": "0",
+          "alpha-txth": "1",
+          "fnt": "font_8",
+          "txt": "color_11",
+          "rd": "5px",
+          "brdh": "color_11",
+          "brd": "color_11",
+          "alpha-bg": "1",
+          "alpha-bgh": "1",
+          "txth": "color_11"
+        },
+        "propertiesSource": {
+          "bgh": "theme",
+          "bg": "theme",
+          "brw": "value",
+          "fnt": "theme",
+          "txt": "theme",
+          "rd": "value",
+          "brdh": "theme",
+          "brd": "theme",
+          "txth": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "b4",
+      "skin": "wysiwyg.viewer.skins.button.ButtonThreeD"
+    },
+    "ca1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "ca1",
+      "skin": "wysiwyg.viewer.skins.photo.NoSkinPhoto"
+    },
+    "eib1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-fontColor": "1",
+          "alpha-backgroundColor": "1",
+          "alpha-headerColor": "1",
+          "alpha-borderColor": "1",
+          "linkColor": "color_2",
+          "brightness-linkColor": "0",
+          "saturation-linkColor": "0",
+          "fontColor": "color_9",
+          "backgroundColor": "color_1",
+          "headerColor": "color_5",
+          "borderColor": "color_4",
+          "brightness-fontColor": "0",
+          "saturation-fontColor": "0",
+          "brightness-backgroundColor": "0",
+          "brightness-headerColor": "0",
+          "alpha-linkColor": "1",
+          "saturation-backgroundColor": "0",
+          "brightness-borderColor": "0",
+          "saturation-headerColor": "0",
+          "saturation-borderColor": "0"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "eib1",
+      "skin": "wysiwyg.viewer.skins.EbayItemsBySellerSkin"
+    },
+    "blog_f72fe377-8abc-40f2-8656-89cfe00f3a22_1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "rd": "7px"
+        },
+        "propertiesSource": {
+          "rd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "blog_f72fe377-8abc-40f2-8656-89cfe00f3a22_1",
+      "skin": "wysiwyg.viewer.skins.AppPartSkin"
+    },
+    "fc1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "fc1",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen"
+    },
+    "fc2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bg": "color_13",
+          "alpha-brd": "1",
+          "alpha-bgctr": "1",
+          "brwt": "5px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)",
+          "rd": "0",
+          "brd": "color_14",
+          "alpha-bg": "1",
+          "brwb": "0px",
+          "bgctr": "color_13"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "bgctr": "theme",
+          "brd": "theme",
+          "brwb": "value",
+          "brwt": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "fc2",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "blog_4de5abc5-6da2-4f97-acc3-94bb74285072_1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "rd": "7px"
+        },
+        "propertiesSource": {
+          "rd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "blog_4de5abc5-6da2-4f97-acc3-94bb74285072_1",
+      "skin": "wysiwyg.viewer.skins.AppPartSkin"
+    },
+    "hc1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "hc1",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen"
+    },
+    "fc3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bg": "color_12",
+          "alpha-brd": "1",
+          "alpha-bgctr": "1",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)",
+          "rd": "0px",
+          "brd": "color_13",
+          "alpha-bg": "0",
+          "brwb": "0px",
+          "bgctr": "color_13"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "bgctr": "theme",
+          "brd": "theme",
+          "brwb": "value",
+          "brwt": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "fc3",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "mg1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bgh": "color_11",
+          "alpha-brd": "1",
+          "brw": "5px",
+          "fntt": "font_6",
+          "ttl": "color_14",
+          "shd": "0 1px 4px rgba(0, 0, 0, 0.6);",
+          "txt": "color_14",
+          "rd": "0px",
+          "brd": "color_13",
+          "alpha-bgh": "0.8",
+          "fntds": "font_8",
+          "alpha-ttl": "1"
+        },
+        "propertiesSource": {
+          "bgh": "theme",
+          "brw": "value",
+          "fntt": "theme",
+          "ttl": "theme",
+          "shd": "value",
+          "txt": "theme",
+          "rd": "value",
+          "brd": "theme",
+          "fntds": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "mg1",
+      "skin": "wysiwyg.viewer.skins.gallerymatrix.MatrixGalleryDefaultSkin"
+    },
+    "hc2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bg": "color_11",
+          "alpha-brd": "1",
+          "alpha-bgctr": "1",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)",
+          "rd": "0",
+          "brd": "color_13",
+          "alpha-bg": "1",
+          "brwb": "5px",
+          "bgctr": "color_11"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "bgctr": "theme",
+          "brd": "theme",
+          "brwb": "value",
+          "brwt": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "hc2",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "blog_56ab6fa4-95ac-4391-9337-6702b8a77011_1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "rd": "7px"
+        },
+        "propertiesSource": {
+          "rd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "blog_56ab6fa4-95ac-4391-9337-6702b8a77011_1",
+      "skin": "wysiwyg.viewer.skins.AppPartSkin"
+    },
+    "wp1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "boxShadowToggleOn-shd": "false",
+          "brd": "color_14",
+          "brw": "5px",
+          "rd": "0px",
+          "shd": "0 1px 3px rgba(0, 0, 0, 0.5);"
+        },
+        "propertiesSource": {
+          "brd": "theme",
+          "brw": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "wp1",
+      "skin": "wysiwyg.viewer.skins.photo.RoundPhoto"
+    },
+    "tm1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "txts": "color_18",
+          "alpha-bgDrop": "1",
+          "alpha-borderColorSelected": "1",
+          "bg": "color_14",
+          "iconcolorSelected": "color_15",
+          "alpha-bordercolor": "1",
+          "iconcolor": "color_15",
+          "separatorHeight": "1px",
+          "fnt": "normal normal normal 16px/1.4em proxima-n-w01-reg",
+          "alpha-separatorColor": "0.5",
+          "strokewidth": "3",
+          "bgOpen": "color_14",
+          "separatorWidthFull": "160",
+          "txt": "color_15",
+          "rd": "4px",
+          "borderColorSelected": "color_11",
+          "linewidth": "20px",
+          "bgDrop": "color_12",
+          "alpha-bg": "0",
+          "borderWidthSelected": "0px",
+          "alpha-iconcolorSelected": "1",
+          "textAlignment": "center",
+          "bordercolor": "color_11",
+          "borderwidth": "0",
+          "alpha-iconcolor": "1",
+          "alpha-bgOpen": "0",
+          "separatorColor": "color_15"
+        },
+        "propertiesSource": {
+          "txts": "theme",
+          "alpha-bgDrop": "value",
+          "alpha-borderColorSelected": "value",
+          "bg": "theme",
+          "iconcolorSelected": "theme",
+          "alpha-bordercolor": "value",
+          "iconcolor": "theme",
+          "separatorHeight": "value",
+          "fnt": "value",
+          "alpha-separatorColor": "value",
+          "strokewidth": "value",
+          "bgOpen": "value",
+          "separatorWidthFull": "value",
+          "txt": "theme",
+          "rd": "value",
+          "borderColorSelected": "theme",
+          "linewidth": "value",
+          "bgDrop": "theme",
+          "alpha-bg": "value",
+          "borderWidthSelected": "value",
+          "alpha-iconcolorSelected": "value",
+          "textAlignment": "value",
+          "bordercolor": "theme",
+          "borderwidth": "value",
+          "alpha-iconcolor": "value",
+          "alpha-bgOpen": "value",
+          "separatorColor": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "tm1",
+      "skin": "wysiwyg.viewer.skins.mobile.TinyMenuFullScreenSkin"
+    },
+    "mg2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bgh": "color_11",
+          "alpha-brd": "1",
+          "brw": "0px",
+          "fntt": "font_8",
+          "ttl": "color_14",
+          "shd": "0 1px 4px rgba(0, 0, 0, 0.6);",
+          "txt": "color_14",
+          "rd": "0px",
+          "brd": "color_11",
+          "alpha-bgh": "0.95",
+          "fntds": "font_9",
+          "alpha-ttl": "1"
+        },
+        "propertiesSource": {
+          "bgh": "theme",
+          "brw": "value",
+          "fntt": "theme",
+          "ttl": "theme",
+          "shd": "value",
+          "txt": "theme",
+          "rd": "value",
+          "brd": "theme",
+          "fntds": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "mg2",
+      "skin": "wysiwyg.viewer.skins.gallerymatrix.MatrixGalleryDefaultSkin"
+    },
+    "hc3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "bg": "color_12",
+          "alpha-brd": "1",
+          "alpha-bgctr": "1",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)",
+          "rd": "0",
+          "brd": "color_12",
+          "alpha-bg": "1",
+          "brwb": "0px",
+          "bgctr": "color_12"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "bgctr": "theme",
+          "brd": "theme",
+          "brwb": "value",
+          "brwt": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "hc3",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "wp2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "wp2",
+      "skin": "wysiwyg.viewer.skins.photo.NoSkinPhoto"
+    },
+    "htco1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "htco1",
+      "skin": "wysiwyg.viewer.skins.HtmlComponentSkin"
+    },
+    "tm2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "separatorWidth": "90",
+          "txts": "color_18",
+          "alpha-bgDrop": "1",
+          "alpha-borderColorSelected": "1",
+          "bg": "color_15",
+          "iconcolorSelected": "color_11",
+          "alpha-bordercolor": "1",
+          "iconcolor": "color_11",
+          "separatorHeight": "1px",
+          "fnt": "normal normal normal 16px/1.4em proxima-n-w01-reg",
+          "alpha-separatorColor": "0.5",
+          "strokewidth": "3",
+          "bgOpen": "color_11",
+          "txt": "color_11",
+          "rd": "0px 0px 0px 0px",
+          "borderColorSelected": "color_13",
+          "linewidth": "20px",
+          "bgDrop": "color_15",
+          "alpha-bg": "1",
+          "borderWidthSelected": "0",
+          "alpha-iconcolorSelected": "1",
+          "textAlignment": "right",
+          "bordercolor": "color_13",
+          "borderwidth": "0",
+          "alpha-iconcolor": "1",
+          "alpha-bgOpen": "0",
+          "separatorColor": "color_15"
+        },
+        "propertiesSource": {
+          "separatorWidth": "value",
+          "txts": "theme",
+          "alpha-bgDrop": "value",
+          "alpha-borderColorSelected": "value",
+          "bg": "theme",
+          "iconcolorSelected": "theme",
+          "alpha-bordercolor": "value",
+          "iconcolor": "theme",
+          "separatorHeight": "value",
+          "fnt": "value",
+          "alpha-separatorColor": "value",
+          "strokewidth": "value",
+          "bgOpen": "theme",
+          "txt": "theme",
+          "rd": "value",
+          "borderColorSelected": "theme",
+          "linewidth": "value",
+          "bgDrop": "theme",
+          "alpha-bg": "value",
+          "borderWidthSelected": "value",
+          "alpha-iconcolorSelected": "value",
+          "textAlignment": "value",
+          "bordercolor": "theme",
+          "borderwidth": "value",
+          "alpha-iconcolor": "value",
+          "alpha-bgOpen": "value",
+          "separatorColor": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "tm2",
+      "skin": "wysiwyg.viewer.skins.mobile.TinyMenuPullFromRightSkin"
+    },
+    "mg3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "false",
+          "alpha-txt": "1",
+          "bgh": "color_11",
+          "bg": "color_13",
+          "brw": "5px",
+          "fntt": "font_6",
+          "ttl": "color_11",
+          "shd": "0 1px 4px rgba(0, 0, 0, 0.6);",
+          "txt": "color_11",
+          "rd": "0px",
+          "alpha-bg": "1",
+          "alpha-bgh": "0.7",
+          "fntds": "font_8",
+          "alpha-ttl": "1"
+        },
+        "propertiesSource": {
+          "bgh": "theme",
+          "bg": "theme",
+          "brw": "value",
+          "fntt": "theme",
+          "ttl": "theme",
+          "shd": "value",
+          "txt": "theme",
+          "rd": "value",
+          "fntds": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "mg3",
+      "skin": "wysiwyg.viewer.skins.gallerymatrix.MatrixGalleryPolaroidSkin"
+    },
+    "wp3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "brd": "color_15",
+          "brw": "0px",
+          "rd": "0px"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "wp3",
+      "skin": "wysiwyg.viewer.skins.photo.LiftedShadowPhoto"
+    },
+    "vl1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "brd": "color_14",
+          "lnw": "1px"
+        },
+        "propertiesSource": {
+          "brd": "theme",
+          "lnw": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "vl1",
+      "skin": "wysiwyg.viewer.skins.line.VerticalSolidLine"
+    },
+    "wp4": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "boxShadowToggleOn-shd": "true",
+          "brd": "color_13",
+          "brw": "0px",
+          "rd": "0px",
+          "shd": "0 2px 5px rgba(0, 0, 0, 0.15);"
+        },
+        "propertiesSource": {
+          "brd": "theme",
+          "brw": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "wp4",
+      "skin": "wysiwyg.viewer.skins.photo.ScotchDoubleVertical"
+    },
+    "lb1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {
+          "displayer": {}
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "lb1",
+      "skin": "wysiwyg.viewer.skins.LinkBarNoBGSkin"
+    },
+    "v1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "v1",
+      "skin": "wysiwyg.viewer.skins.VideoSkin"
+    },
+    "vl2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "brd": "color_12",
+          "lnw1": "3px",
+          "lnw2": "2px"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "vl2",
+      "skin": "wysiwyg.viewer.skins.line.VerticalDoubleLine"
+    },
+    "v2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "brd": "color_15",
+          "brw": "0px",
+          "rd": "0px",
+          "shd": "0 1px 4px rgba(0, 0, 0, 0.6);"
+        },
+        "propertiesSource": {
+          "brd": "theme",
+          "brw": "value",
+          "rd": "value",
+          "shd": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "v2",
+      "skin": "wysiwyg.viewer.skins.video.VideoDefault"
+    },
+    "lgn0": {
+      "componentClassName": "wysiwyg.viewer.components.LoginButton",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "fnt": "font_7",
+          "txt": "color_15",
+          "txth": "color_14"
+        },
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "lgn0",
+      "skin": "wysiwyg.viewer.skins.button.LoginButtonSkin"
+    },
+    "vl3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-brd": "1",
+          "brd": "color_15",
+          "lnw": "3px"
+        },
+        "propertiesSource": {
+          "brd": "theme",
+          "lnw": "value"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "vl3",
+      "skin": "wysiwyg.viewer.skins.line.VerticalSolidLine"
+    },
+    "sg1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-txt": "1",
+          "bg": "color_12",
+          "alpha-brd": "1",
+          "brw": "5px",
+          "txt": "color_15",
+          "rd": "0px",
+          "brd": "color_6",
+          "alpha-bg": "0.6",
+          "fntds": "font_8"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brw": "value",
+          "fntds": "theme",
+          "rd": "value",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "sg1",
+      "skin": "wysiwyg.viewer.skins.galleryslider.SliderGalleryDefaultSkin"
+    },
+    "vl4": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "vl4",
+      "skin": "wysiwyg.viewer.skins.line.VerticalNotchDashedLine"
+    },
+    "sg2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-txt": "1",
+          "bg": "color_12",
+          "alpha-brd": "1",
+          "brw": "0px",
+          "txt": "color_15",
+          "rd": "0px",
+          "brd": "color_14",
+          "alpha-bg": "0.6",
+          "fntds": "font_8"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brw": "value",
+          "fntds": "theme",
+          "rd": "value",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "sg2",
+      "skin": "wysiwyg.viewer.skins.galleryslider.SliderGalleryDefaultSkin"
+    },
+    "pc1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "pc1",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.BlankScreen"
+    },
+    "tpaw0": {
+      "componentClassName": "wysiwyg.viewer.components.tpapps.TPAWidget",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "tpaw0",
+      "skin": "wysiwyg.viewer.skins.TPAWidgetSkin"
+    },
+    "sg3": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "alpha-txt": "1",
+          "bg": "color_11",
+          "alpha-brd": "1",
+          "brw": "10px",
+          "txt": "color_14",
+          "rd": "0px",
+          "brd": "color_12",
+          "alpha-bg": "0.6",
+          "fntds": "font_8"
+        },
+        "propertiesSource": {
+          "bg": "theme",
+          "brd": "theme",
+          "brw": "value",
+          "fntds": "theme",
+          "rd": "value",
+          "txt": "theme"
+        },
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "sg3",
+      "skin": "wysiwyg.viewer.skins.galleryslider.SliderGalleryNoArrow"
+    },
+    "pc2": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {
+          "boxShadowToggleOn-shd": "true",
+          "bg": "color_11",
+          "alpha-brd": "1",
+          "alpha-bgctr": "1",
+          "brwt": "0px",
+          "shd": "0 0 5px rgba(0, 0, 0, 0.7)",
+          "brd": "color_15",
+          "alpha-bg": "1",
+          "brwb": "0px",
+          "bgctr": "color_11"
+        }
+      },
+      "type": "TopLevelStyle",
+      "id": "pc2",
+      "skin": "wysiwyg.viewer.skins.screenwidthcontainer.DefaultScreen"
+    },
+    "tf1": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": true,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "tf1",
+      "skin": "skins.core.TwitterFollowSkin"
+    }
+  },
+  "documentSchemaVersion": "1.0"
+}

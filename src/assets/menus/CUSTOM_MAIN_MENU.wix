@@ -1,0 +1,29 @@
+{
+  "content": {
+    "data": {
+      "CUSTOM_MAIN_MENU": {
+        "type": "CustomMenu",
+        "id": "CUSTOM_MAIN_MENU",
+        "metaData": {
+          "isPreset": true,
+          "schemaVersion": "1.0",
+          "isHidden": false
+        },
+        "name": "Custom Main Menu"
+      }
+    },
+    "structure": {
+      "bmi23nr": {
+        "id": "bmi23nr",
+        "items": []
+      },
+      "CUSTOM_MAIN_MENU": {
+        "id": "CUSTOM_MAIN_MENU",
+        "items": [
+          "#bmi23nr"
+        ]
+      }
+    }
+  },
+  "documentSchemaVersion": "1.0"
+}

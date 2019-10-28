@@ -13,7 +13,6 @@
         },
         "connectionQuery": "connection-k290y3ef",
         "styleId": "p1",
-        "behaviorQuery": "behavior-jg9pfpzt",
         "components": [
           {
             "connectionQuery": "connection-k2a5xgcl",
@@ -1184,13 +1183,7 @@
             "alignType": "center"
           }
         ],
-        "behaviors_data": [
-          {
-            "type": "ObsoleteBehaviorsList",
-            "id": "behavior-jg9pfpzt",
-            "items": "[]"
-          }
-        ],
+        "behaviors_data": [],
         "connections_data": [
           {
             "type": "ConnectionList",

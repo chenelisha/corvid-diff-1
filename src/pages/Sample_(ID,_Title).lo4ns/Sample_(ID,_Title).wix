@@ -1816,8 +1816,8 @@
         "CUSTOM_MAIN_MENU": {
           "dataItem-k2a5v9zf": {
             "type": "BasicMenuItem",
-            "isVisible": false,
-            "isVisibleMobile": false,
+            "isVisible": true,
+            "isVisibleMobile": true,
             "id": "dataItem-k2a5v9zf",
             "label": "Sample (ID, Title)",
             "link": "#dataItem-k2a5v9zf1",
@@ -1841,7 +1841,7 @@
         }
       }
     },
-    "pageUriSeo": "page2",
+    "pageUriSeo": "sample-id-title",
     "title": "Sample (ID, Title)",
     "isPopup": false,
     "pageId": "lo4ns"

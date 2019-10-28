@@ -1,0 +1,12 @@
+{
+  "content": {
+    "appDefinitionId": "dataBinding",
+    "prefix": "sample",
+    "config": "{\"patterns\":{\"/{title}\":{\"pageRole\":\"3a15c4a7-7489-4868-87ec-672b62b3a601\",\"title\":\"{title}\",\"config\":{\"collection\":\"sample\"},\"seoMetaTags\":{}}}}",
+    "pages": {
+      "3a15c4a7-7489-4868-87ec-672b62b3a601": "c4x6i"
+    },
+    "routeId": "routers-k2a6j3qk"
+  },
+  "documentSchemaVersion": "1.0"
+}

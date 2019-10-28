@@ -15,6 +15,31 @@
         "styleId": "style-k2a5v9zp",
         "components": [
           {
+            "connectionQuery": "connection-k2a6ersg",
+            "layout": {
+              "x": 151.46296296296293,
+              "y": 37.888888888888914,
+              "fixedPosition": false,
+              "width": 60,
+              "height": 96,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "style-k2a6ersf",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            },
+            "previousStyleId": "style-k2a6dbkl",
+            "componentType": "platform.components.AppController",
+            "type": "Component",
+            "id": "comp-k2a6erqq",
+            "skin": "platform.components.skins.controllerSkin",
+            "dataQuery": "#dataItem-k2a6ersb",
+            "mobileHintsQuery": "mobileHints-k2a6erta"
+          },
+          {
             "connectionQuery": "connection-k2a68lph",
             "layout": {
               "x": -24.5,
@@ -139,31 +164,6 @@
             "id": "comp-k2a69s5w",
             "skin": "wysiwyg.viewer.skins.WRichTextNewSkin",
             "dataQuery": "#dataItem-k2a69s7q"
-          },
-          {
-            "connectionQuery": "connection-k2a6ersg",
-            "layout": {
-              "x": 151.46296296296293,
-              "y": 37.888888888888914,
-              "fixedPosition": false,
-              "width": 60,
-              "height": 96,
-              "scale": 1,
-              "rotationInDegrees": 0
-            },
-            "styleId": "style-k2a6ersf",
-            "metaData": {
-              "isPreset": false,
-              "schemaVersion": "1.0",
-              "isHidden": false
-            },
-            "previousStyleId": "style-k2a6dbkl",
-            "componentType": "platform.components.AppController",
-            "type": "Component",
-            "id": "comp-k2a6erqq",
-            "skin": "platform.components.skins.controllerSkin",
-            "dataQuery": "#dataItem-k2a6ersb",
-            "mobileHintsQuery": "mobileHints-k2a6erta"
           }
         ],
         "componentType": "mobile.core.components.Page",

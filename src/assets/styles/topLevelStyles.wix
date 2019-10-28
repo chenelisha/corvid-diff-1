@@ -2661,6 +2661,25 @@
       "id": "fc1",
       "skin": "wysiwyg.viewer.skins.screenwidthcontainer.TransparentScreen"
     },
+    "controller1": {
+      "componentClassName": "platform.components.AppController",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "groups": {},
+        "properties": {},
+        "propertiesSource": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "controller1",
+      "skin": "platform.components.skins.controllerSkin"
+    },
     "fc2": {
       "componentClassName": "",
       "pageId": "",
@@ -3319,6 +3338,25 @@
       "type": "TopLevelStyle",
       "id": "wp3",
       "skin": "wysiwyg.viewer.skins.photo.LiftedShadowPhoto"
+    },
+    "style-k2a6j3un": {
+      "componentClassName": "",
+      "pageId": "",
+      "compId": "",
+      "styleType": "system",
+      "metaData": {
+        "isPreset": false,
+        "schemaVersion": "1.0",
+        "isHidden": false
+      },
+      "style": {
+        "properties": {},
+        "propertiesSource": {},
+        "groups": {}
+      },
+      "type": "TopLevelStyle",
+      "id": "style-k2a6j3un",
+      "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin"
     },
     "vl1": {
       "componentClassName": "",

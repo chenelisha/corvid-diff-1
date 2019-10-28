@@ -1,0 +1,173 @@
+{
+  "content": {
+    "content": {
+      "structure": {
+        "layout": {
+          "width": 980,
+          "x": 0,
+          "y": 0,
+          "fixedPosition": false,
+          "height": 500,
+          "scale": 1,
+          "rotationInDegrees": 0
+        },
+        "connectionQuery": "connection-k2a6j3v0",
+        "styleId": "style-k2a6j3un",
+        "components": [
+          {
+            "layout": {
+              "x": 450,
+              "y": 70,
+              "fixedPosition": false,
+              "width": 60,
+              "height": 96,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "componentType": "platform.components.AppController",
+            "id": "comp-k2a6j445",
+            "type": "Component",
+            "dataQuery": "#dataItem-k2a6j46h",
+            "styleId": "controller1",
+            "connectionQuery": "connection-k2a6j46i"
+          }
+        ],
+        "componentType": "mobile.core.components.Page",
+        "mobileComponents": [
+          {
+            "conversionData": {
+              "isSemiTransparentContainer": false,
+              "isTransparentContainer": false,
+              "shouldApplyPreset": true,
+              "mobileHints": {
+                "hidden": false
+              },
+              "isNonContainableFullWidth": false,
+              "nonLayoutComponent": true,
+              "hiddenable": false
+            },
+            "connectionQuery": "connection-k2a6j46i",
+            "layout": {
+              "x": 0,
+              "y": 0,
+              "fixedPosition": false,
+              "width": 0,
+              "height": 0,
+              "scale": 1,
+              "rotationInDegrees": 0
+            },
+            "styleId": "controller1",
+            "componentType": "platform.components.AppController",
+            "type": "Component",
+            "id": "comp-k2a6j445",
+            "dataQuery": "#dataItem-k2a6j46h"
+          }
+        ],
+        "type": "Page",
+        "id": "c4x6i",
+        "skin": "wysiwyg.viewer.skins.page.TransparentPageSkin",
+        "dataQuery": "#c4x6i",
+        "mobileHintsQuery": "mobileHints-k2a6j3vb"
+      },
+      "data": {
+        "component_properties": [],
+        "document_data": [
+          {
+            "id": "dataItem-k2a6j46h",
+            "type": "AppController",
+            "name": "Sample Item",
+            "controllerType": "router_dataset",
+            "applicationId": "dataBinding",
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "theme_data": [],
+        "behaviors_data": [],
+        "connections_data": [
+          {
+            "id": "connection-k2a6j3v0",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "page1"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          },
+          {
+            "id": "connection-k2a6j46i",
+            "type": "ConnectionList",
+            "items": [
+              {
+                "type": "WixCodeConnectionItem",
+                "role": "dynamicDataset"
+              }
+            ],
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "mobile_hints": [
+          {
+            "id": "mobileHints-k2a6j3vb",
+            "type": "MobileHints",
+            "hidden": false,
+            "metaData": {
+              "isPreset": false,
+              "schemaVersion": "1.0",
+              "isHidden": false
+            }
+          }
+        ],
+        "design_data": []
+      },
+      "pageUriSEO": "blank",
+      "title": "Sample (Title)",
+      "translations": {},
+      "pagesPlatformApplications": [
+        "dataBinding"
+      ],
+      "menus": {
+        "CUSTOM_MAIN_MENU": {
+          "dataItem-k2a6j3ud": {
+            "type": "BasicMenuItem",
+            "isVisible": false,
+            "isVisibleMobile": false,
+            "id": "dataItem-k2a6j3ud",
+            "label": "Sample (Title)",
+            "link": "#dataItem-k2a6j3ud1",
+            "metaData": {
+              "isPreset": false
+            }
+          },
+          "dataItem-k2a6j3ud1": {
+            "type": "PageLink",
+            "target": "_self",
+            "pageId": "#c4x6i",
+            "id": "dataItem-k2a6j3ud1",
+            "metaData": {
+              "isPreset": false
+            }
+          }
+        }
+      }
+    },
+    "pageUriSeo": "blank",
+    "title": "Sample (Title)",
+    "isPopup": false,
+    "pageId": "c4x6i"
+  },
+  "documentSchemaVersion": "1.0"
+}
